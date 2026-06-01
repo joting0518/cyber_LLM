@@ -1,0 +1,110 @@
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environment
+# =========================
+
+venv/
+.env
+.venv/
+
+# =========================
+# Jupyter
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# macOS
+# =========================
+
+.DS_Store
+
+# =========================
+# VSCode
+# =========================
+
+.vscode/
+
+# =========================
+# HuggingFace
+# =========================
+
+.cache/
+huggingface/
+checkpoints/
+
+# =========================
+# Model Outputs
+# =========================
+
+results/
+logs/
+runs/
+output/
+*.ckpt
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# =========================
+# Dataset Splits
+# =========================
+
+dataset/train.csv
+dataset/valid.csv
+dataset/test.csv
+
+# =========================
+# Original Datasets
+# =========================
+
+enron/enron.csv
+enron/enron_clean.csv
+nazario_clean.csv
+nazario.csv
+nazario/Nazario_Phishing_Corpus.mbox
+Adversarial_BEC_Email/synthetic_emails.csv
+Adversarial_BEC_Email/synthetic_emails_poisoned.csv
+Adversarial_BEC_Email/bec_clean.csv
+
+# =========================
+# Generated CSV
+# =========================
+
+*.tmp
+temp.csv
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# Python Packaging
+# =========================
+
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Environment Variables
+# =========================
+
+.env
+.env.*
+
+# =========================
+# BEC tool
+# =========================
+poison_emails.py
+generate_emails.py
