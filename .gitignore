@@ -108,3 +108,5 @@ dist/
 # =========================
 poison_emails.py
 generate_emails.py
+
+dataset/dataset.zip
