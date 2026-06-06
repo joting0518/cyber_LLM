@@ -1,4 +1,4 @@
-# Dataset Preparation
+## Dataset Preparation
 
 | Dataset          | Label          | Final Size |
 | ---------------- | -------------- | ---------: |
@@ -7,7 +7,7 @@
 | BEC              | Phishing (1)   |      5,338 |
 | Training Dataset | Balanced       |     12,576 |
 
-## Source Datasets
+### Source Datasets
 
 This project uses three publicly available email datasets.
 | Dataset                       | Purpose                                | Link                                                                                                                                           |
@@ -16,7 +16,7 @@ This project uses three publicly available email datasets.
 | Nazario Phishing Corpus       | Phishing Emails                        | [https://monkey.org/~jose/phishing/phishing3.mbox](https://monkey.org/~jose/phishing/phishing3.box)                                                                       |
 | Adversarial BEC Email Dataset | Phishing & Adversarial Phishing Emails | [https://www.kaggle.com/datasets/yoadjei/adversarial-bec-email-dataset](https://www.kaggle.com/datasets/yoadjei/adversarial-bec-email-dataset) |
 
-### 1. Enron Email Dataset (Legitimate Emails)
+#### 1. Enron Email Dataset (Legitimate Emails)
 Processed file:
 
 ```text
@@ -45,7 +45,7 @@ dataset = 1
 
 ---
 
-### 2. Nazario Phishing Corpus
+#### 2. Nazario Phishing Corpus
 
 Processed file:
 
@@ -75,7 +75,7 @@ dataset = 2
 
 ---
 
-### 3. Adversarial BEC Email Dataset
+#### 3. Adversarial BEC Email Dataset
 
 Processed file:
 
@@ -106,11 +106,11 @@ dataset = 4 (adversarial BEC)
 
 ---
 
-## Dataset Balancing
+### Dataset Balancing
 
 After preprocessing:
 
-### Phishing Emails
+#### Phishing Emails
 
 ```text
 Nazario Corpus      950
@@ -119,7 +119,7 @@ BEC Dataset        5338
 Total              6288
 ```
 
-### Legitimate Emails
+#### Legitimate Emails
 
 To avoid severe class imbalance, all phishing emails were retained and an equal number of legitimate emails were randomly sampled from the Enron dataset.
 
@@ -149,7 +149,7 @@ seed = 42
 
 ---
 
-## Train / Validation / Test Split
+### Train / Validation / Test Split
 
 The dataset was shuffled using a fixed random seed and split using stratified sampling.
 
@@ -169,28 +169,28 @@ Valid : 1258
 Test  : 1258
 ```
 
-### Train Label Distribution
+#### Train Label Distribution
 
 ```text
 label=1 : 5030
 label=0 : 5030
 ```
 
-### Validation Label Distribution
+#### Validation Label Distribution
 
 ```text
 label=1 : 629
 label=0 : 629
 ```
 
-### Test Label Distribution
+#### Test Label Distribution
 
 ```text
 label=1 : 629
 label=0 : 629
 ```
 
-## Dataset Schema
+### Dataset Schema
 
 Each email record contains the following fields:
 
@@ -201,14 +201,14 @@ Each email record contains the following fields:
 | `label`   | Integer | Binary classification label. `0` represents a legitimate email, while `1` represents a phishing email. |
 | `dataset` | Integer | Source dataset identifier used for analysis and error tracking.                                        |
 
-### Label Definition
+#### Label Definition
 
 | Label | Description      |
 | ----- | ---------------- |
 | `0`   | Legitimate Email |
 | `1`   | Phishing Email   |
 
-### Dataset Identifier
+#### Dataset Identifier
 
 | Dataset ID | Source                        |
 | ---------- | ----------------------------- |
@@ -217,7 +217,7 @@ Each email record contains the following fields:
 | `3`        | Synthetic BEC Email Dataset   |
 | `4`        | Adversarial BEC Email Dataset |
 
-### Example Record
+#### Example
 
 ```csv
 subject,body,label,dataset
