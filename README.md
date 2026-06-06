@@ -1,11 +1,19 @@
 # Defending against Conventional and AI-generated Phishing Using LLM-based System
-📓 **Notebook(Entrance):** [bec_detection_qwen25.ipynb](./bec_detection_qwen25.ipynb)
+
+## Overview
+This notebook implements an LLM-based Business Email Compromise (BEC) defense system using a LoRA fine-tuned Qwen2.5-7B model. The system analyzes email content, identifies malicious intent, generates risk scores, and performs dynamic control actions (Allow, Warning, Quarantine, or Block). A Gradio interface is provided for interactive demonstrations and real-time email security assessment.
+
+## **Notebook(Entrance):** 
+📓 [bec_detection_qwen25.ipynb](./bec_detection_qwen25.ipynb)
 
 ## Demo Interface
 ![Demo Interface](./assets/demo.png)
 
-## Overview
-This notebook implements an LLM-based Business Email Compromise (BEC) defense system using a LoRA fine-tuned Qwen2.5-7B model. The system analyzes email content, identifies malicious intent, generates risk scores, and performs dynamic control actions (Allow, Warning, Quarantine, or Block). A Gradio interface is provided for interactive demonstrations and real-time email security assessment.
+## Demo Video
+🎥 [Watch Demo](https://drive.google.com/file/d/1Bn9_QrXNJQ1dEVGxulVnasttunsR-Yqd/view)
+
+## Final report
+📄 [View report]()
 
 ## Dataset Preparation
 
@@ -239,3 +247,13 @@ In this example:
 * `body` contains the email content.
 * `label=1` indicates a phishing email.
 * `dataset=2` indicates that the sample originates from the Nazario Phishing Corpus.
+
+## Contributor:
+* 楊大明	111701043	國立政治大學
+* 林佩璇	111302055	國立政治大學
+* 陳若庭	111306011	國立政治大學
+* 李宜恩	111208001	國立政治大學
+
+
+
+
