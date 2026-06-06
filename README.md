@@ -1,3 +1,12 @@
+# Defending against Conventional and AI-generated Phishing Using LLM-based System
+📓 **Notebook(Entrance):** [bec_detection_qwen25.ipynb](./bec_detection_qwen25.ipynb)
+
+## Demo Interface
+![Demo Interface](./assets/demo.png)
+
+## Overview
+This notebook implements an LLM-based Business Email Compromise (BEC) defense system using a LoRA fine-tuned Qwen2.5-7B model. The system analyzes email content, identifies malicious intent, generates risk scores, and performs dynamic control actions (Allow, Warning, Quarantine, or Block). A Gradio interface is provided for interactive demonstrations and real-time email security assessment.
+
 ## Dataset Preparation
 
 | Dataset          | Label          | Final Size |
