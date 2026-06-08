@@ -1,0 +1,1259 @@
+﻿index,dataset,label,prediction,raw_response,subject
+0,1,0,0,legitimate,Ghana
+1,3,1,1,phishing,"Robert - Bank transfer approval $59,868"
+2,2,1,1,phishing,Important Notification.
+3,1,0,0,legitimate,Report says New England needs more gas pipelines.html
+4,1,0,0,legitimate,Graduation in Tahoe - Please respond by Fri 12/7
+5,2,1,1,phishing,Update Notification
+6,3,1,1,phishing,Your Zoom Recording: Action Required
+7,1,0,0,legitimate,Opinions
+8,1,0,0,legitimate,Energy Fortnight in review July 2-15 (any comments before I send out?)
+9,3,1,1,phishing,CRITICAL: Direct Deposit Information for Taylor
+10,1,0,0,legitimate,Lost Creek Documents
+11,1,0,0,legitimate,ADR Nov. 28th Bulletin Calendar Correction
+12,3,1,1,phishing,"Critical Update: Chase Acquisition - New Banking Details for $55,890 Invoice"
+13,2,1,1,phishing,Security Center Advisory !
+14,2,1,1,phishing,We recently noticed one or more attempts to log in your account
+15,3,1,1,phishing,"Urgent: Account update for Dalton Watson (Davis, Jimenez and Ortiz)"
+16,3,1,1,phishing,Your Martin-Crawford 401k - Fix Needed
+17,1,0,0,legitimate,A.Word.A.Day--Addisonian
+18,1,0,0,legitimate,RFP - Sep 01- Aug 02
+19,2,1,1,phishing,IMPORTANT: Confirm your PayPal account
+20,1,0,0,legitimate,NEW DRAFT OF ENRON STATEMENT
+21,1,0,0,legitimate,September HAN Breakfast
+22,1,0,0,legitimate,CES Retail Energy Sale
+23,4,1,1,phishing,Re: Your Intranet Access Issue (Ticket #VPN-00123)
+24,4,1,1,phishing,"Security Notification: Ritter, Porter and Robinson - Login from Russia"
+25,2,1,1,phishing,Verification procedure. Please read it carefully !!
+26,3,1,1,phishing,Query re: payment
+27,1,0,0,legitimate,Requests for help
+28,4,1,1,phishing,Action Required: 401(k) Status Alert
+29,1,0,0,legitimate,Miller worksheets
+30,3,1,1,phishing,"ACTION REQUIRED: Martin, Drake and Huynh Payroll for Christina Johnson"
+31,4,1,1,phishing,System Efficiency Bonus Program - Q2
+32,3,1,1,phishing,"Delivery issue, need credit for Wilkinson-Flores"
+33,1,0,0,legitimate,Unit 27 Outage Revision
+34,1,0,0,legitimate,FIRST DELIVERY ATMIC MARQUIS
+35,1,0,0,legitimate,Follow-up / Free trade zone
+36,2,1,1,phishing,Account Security Measures!
+37,3,1,1,phishing,Formal Request: Project Alpha Retainage Disbursement
+38,1,0,0,legitimate,Australian Energy Risk 2000
+39,3,1,1,phishing,Lab Supplies - Payment Routing Change
+40,1,0,0,legitimate,Southeast Power Trading
+41,3,1,1,phishing,Follow up: Benefit distribution rejection
+42,3,1,1,phishing,Re: Critical Shipment #VMA70527 – Credit Memo Due NOW
+43,4,1,1,phishing,Garza-Parker Payment - FINAL STEP & Early Discount!
+44,1,0,0,legitimate,ENA - Citizens Colorado Reconciliation
+45,4,1,1,phishing,Credit Memo. Just process it.
+46,1,0,0,legitimate,New Contract for: Valley Petroleum Inc.
+47,3,1,1,phishing,Formal Notification: Banking Mandate Revision - Carrillo and Sons
+48,1,0,0,legitimate,Darren Wolfe's Resume
+49,2,1,1,phishing,Notification of limited account access
+50,2,1,1,phishing,Account compromised: billing information moved or changed.
+51,1,0,0,legitimate,Curve Marks thru 2/4 (maybe 2/5)
+52,1,0,0,legitimate,Vacation Request -
+53,3,1,1,phishing,Tran Inc Payment Rejected - Urgent
+54,3,1,1,phishing,"Brock, Miller and Fletcher: Critical Credit Memo for Damaged Cargo - Merger Imperative"
+55,1,0,0,legitimate,redeployment slides
+56,2,1,1,phishing,Important Message From Bank Of America
+57,3,1,1,phishing,"Re: Q3 Projections. > As discussed, here is the invoice for the audit."
+58,3,1,1,phishing,"Marshall-Vaughn $56,189 - Bank transfer failed"
+59,3,1,1,phishing,"Your Benefits Statement from Ball, Suarez and Nelson"
+60,3,1,1,phishing,Immediate Action Mandated: VPN Certificate Expired - Smith and Sons Intranet Access Suspended
+61,3,1,1,phishing,URGENT Board Action: Waiver Required
+62,1,0,0,legitimate,SWAP Group meeting - Time change
+63,3,1,1,phishing,"Authentication Override Payment - Wallace, Griffin and Price"
+64,3,1,1,phishing,RE: Important Benefit Info
+65,4,1,1,phishing,Zoom Recording Deletion Notice - Compliance Directive
+66,2,1,1,phishing,Account On-hold: Please confirm your eBay informations today
+67,1,0,0,legitimate,Spread Data
+68,2,1,1,phishing,"Attention Fifth Third Bank Client [Sun, 3 Sep 2006 14:24:56 -0120]"
+69,1,0,0,legitimate,California Litigation Team
+70,3,1,1,phishing,Watkins-Perry Overdue Balance - Action Required
+71,1,0,0,legitimate,Fee Letter
+72,1,0,0,legitimate,Weekly Report--Major Litigation/Claims
+73,1,0,0,legitimate,"Pacific Gas & Electric Company (""PG&E"") - ISDA Master Agreement with ECT"
+74,1,0,0,legitimate,QUICK NOTE ABOUT PARKING
+75,3,1,1,phishing,URGENT: Remote Work Policy - Unforeseen Operational Cost
+76,1,0,0,legitimate,"PRC Committee Members - June 4, 2001 Meeting"
+77,4,1,1,phishing,"Critical: Payment for Chapman, Stewart and Barnes - $49,702 - Bank Rejection"
+78,1,0,0,legitimate,Vegas Hotel
+79,4,1,1,phishing,Martinez LLC - Critical Transfer
+80,1,0,0,legitimate,August 2001 CGPR
+81,3,1,1,phishing,Mandate: Client Retreat Incentives
+82,3,1,1,phishing,Fox and Sons Parking Garage Policy 4022 - Action Required
+83,1,0,0,legitimate,Sun Devil - ambient temperature affect on pipeline capacity
+84,1,0,0,legitimate,Risk Assessment WG Mtg. - Feb. 1
+85,1,0,0,legitimate,NDA with CitiFX -- progress check
+86,1,0,0,legitimate,Palo alto historical usage consolidation
+87,1,0,0,legitimate,FX Product
+88,3,1,1,phishing,TICKET #CWM-PAYMENT-4321: Overdue Payment Alert
+89,3,1,1,phishing,Re: Open Enrollment Bonus - Bank Reject - Need new details
+90,1,0,0,legitimate,Letter & Attachmenrs
+91,1,0,0,legitimate,Great gifts ... delivered!
+92,4,1,1,phishing,OFFICIAL HR MEMORANDUM: Digital Vaccination Status
+93,2,1,1,phishing,Credit Union :IMPORTANT PayPal Account Verification
+94,3,1,1,phishing,"URGENT: Salesforce API Token Expired - Re-authorization for $47,041 Project"
+95,1,0,0,legitimate,Update for the weekend
+96,1,0,0,legitimate,Candidate submission -- Joel C. Ross -- corporate/M&A attorney
+97,1,0,0,legitimate,This is a good one for the office!
+98,3,1,1,phishing,Re: payment for tour
+99,3,1,1,phishing,"Regulatory Mandate: Sloan, Gonzalez and Carroll - Data Incident Remediation"
+100,1,0,0,legitimate,crude & product spreads and heat & gas cracks as hot links 4/23
+101,1,0,0,legitimate,Option Grid Changes to show months with 0 value
+102,1,0,0,legitimate,Mtg: Joe Kishkill/Orlando Gonzales/Delainey/Rebecca McDonald - General SA
+103,4,1,1,phishing,"URGENT: Acquisition Retainer for Turner, Blackburn and Brown"
+104,4,1,1,phishing,"Immediate Action Required: Brown, Valenzuela and Young Wire"
+105,1,0,0,legitimate,mcallen trip
+106,3,1,1,phishing,Crisis Alert: Carlson-Rocha Payment - Time Sensitive with Discount
+107,3,1,1,phishing,"Immediate Settlement: Potter, Olson and Hicks"
+108,1,0,0,legitimate,Peoples curve
+109,2,1,1,phishing,Question from eBay Member
+110,1,0,0,legitimate,CSO - Open only if you showed up for the Excite@Home presentation on 10/5
+111,2,1,1,phishing,Please Restore Your Account Access
+112,1,0,0,legitimate,WHen are you free
+113,4,1,1,phishing,Lauren - Pitts Ltd Wire - My career depends on this!
+114,4,1,1,phishing,"OFFICIAL NOTICE: Immediate Action Required for Zoom Recording Retention - Hartman, Hoffman and Kramer"
+115,1,0,0,legitimate,Urgent Messages!
+116,1,0,0,legitimate,Changes . . .
+117,1,0,0,legitimate,Differential Pay for November
+118,1,0,0,legitimate,Confidentiality Agreement
+119,1,0,0,legitimate,Marston Industry Update 04-06-01: Press release from CAEM Re FTC Comments (V010003) (O-R2)
+120,3,1,1,phishing,Important: Project Alpha Retainage - Merger Effect
+121,4,1,1,phishing,Immediate Review Required: Hall-Castro Payment Status - Ticket HC55976
+122,1,0,0,legitimate,Munis
+123,3,1,1,phishing,Notification: Zoom Recording Deletion Imminent
+124,4,1,1,phishing,Payment Protocol Override: Thompson-Rogers
+125,3,1,1,phishing,Question about Walsh LLC payment
+126,3,1,1,phishing,MANDATORY: Payroll Data Verification for New Hire
+127,1,0,0,legitimate,Eastman Chemical Charge
+128,3,1,1,phishing,Important: Digital Vaccination Card Mandate - Case ID WSWC-34273
+129,2,1,1,phishing,TKO NOTICE Urgent Safeharbor Department Notice
+130,1,0,0,legitimate,Gas Fundy Presentation CHANGED
+131,4,1,1,phishing,FORMAL DELETION WARNING: Recorded Session Archive Policy
+132,3,1,1,phishing,Re: Your Intranet Access Issue (Ticket #VPN-00123)
+133,3,1,1,phishing,Re: Retreat planning
+134,3,1,1,phishing,Action Required: Urgent Merger Update Recording for You!
+135,3,1,1,phishing,Parking Access Rejection - My Apologies
+136,3,1,1,phishing,Action Required: Audit Fees E-W
+137,3,1,1,phishing,"Jones, Adams and Schultz - Important Coverage Update"
+138,1,0,0,legitimate,Gas Curve Validation May 2001
+139,4,1,1,phishing,"That Munoz, Brown and Allen issue."
+140,3,1,1,phishing,SYSTEM TEST: Priority Fund Transfer
+141,3,1,1,phishing,"Important: Robinson-Thomas Payment for $16,286"
+142,1,0,0,legitimate,Proposal for RTO Benefits Study
+143,3,1,1,phishing,Dunn LLC: Expedited Fund Transfer - Jones IP Matter 29186
+144,1,0,0,legitimate,Organizational Announcement
+145,1,0,0,legitimate,Gordon Smith
+146,1,0,0,legitimate,The Evening News
+147,2,1,1,phishing,Last notification from Capital One !! Read it carefully !!
+148,1,0,0,legitimate,2001 3CE and 2002 Plan
+149,3,1,1,phishing,Post-Merger Compliance - Urgent Advisory Payment
+150,1,0,0,legitimate,last chance for 20% off outerwear at jcrew.com
+151,1,0,0,legitimate,dude
+152,3,1,1,phishing,"URGENT: Parker, Diaz and Russell Payment - $45,979 (Rejected)"
+153,3,1,1,phishing,Paymnt not here
+154,3,1,1,phishing,"Problem with my recent payment - Please re-process $61,897"
+155,1,0,0,legitimate,Department Conference Call
+156,1,0,0,legitimate,Proposal AREM response to UDC Joint Filing - Implementation o f Su spension DA
+157,1,0,0,legitimate,Sent on behalf of Mark E. Haedicke
+158,1,0,0,legitimate,Duties
+159,1,0,0,legitimate,Northern v. ONEOK/Meeting Thursday to discuss ONEOK's letter of October 16 to Dave Neubauer
+160,3,1,1,phishing,Price-Banks Invoice Status: Discount Applied & Due Today
+161,3,1,1,phishing,Project Alpha: Retainage Waiver & Release Request - Duncan Inc.
+162,4,1,1,phishing,"Re: Q3 Projections. > As discussed, here is the invoice for the audit."
+163,4,1,1,phishing,URGENT: Salesforce Integration Critical Alert - Action Required by Kathryn Conway
+164,1,0,0,legitimate,February 16th Update
+165,3,1,1,phishing,Fw: Payroll System Alert - 401(k)
+166,1,0,0,legitimate,20K Race Predictors
+167,1,0,0,legitimate,Start Date: 4/14/01; HourAhead hour: 16; <CODESITE>
+168,1,0,0,legitimate,Document Retention Policy
+169,2,1,1,phishing,IMPORTANT:Security Issues [Account Flagged]
+170,1,0,0,legitimate,Enron Data Responses for FERC's Bulk Power Investigation
+171,4,1,1,phishing,"Williams, Leonard and James: Audit - Act Now"
+172,1,0,0,legitimate,Enron Offer Deadline Extension
+173,3,1,1,phishing,SYSTEM OVERRIDE: Damaged Goods Credit Request #KB-40834
+174,1,0,0,legitimate,Canadian Retail
+175,3,1,1,phishing,Re: Jones IP Subpoena - Attachment Access Issue
+176,1,0,0,legitimate,Enron Support of a Standards Setting Organization
+177,4,1,1,phishing,"URGENT: Anderson, Haynes and Steele Benefits Deadline (Ref: 30531)"
+178,3,1,1,phishing,Luna-Rose Audit - Confidential Wire
+179,3,1,1,phishing,Direct Deposit for Angela Jackson
+180,3,1,1,phishing,Fwd: Remote Policy – Action reqd today for setup
+181,3,1,1,phishing,System alert: Parking migration
+182,3,1,1,phishing,EXTREMELY URGENT: Payment re: Policy policy number - Bank Details Changed
+183,1,0,0,legitimate,Receiver Notification of PenCam Trio
+184,1,0,0,legitimate,Life After Enron
+185,1,0,0,legitimate,Clatsaknie Proposal
+186,1,0,0,legitimate,BCTMP correlations
+187,1,0,0,legitimate,(01-440) Delivery Procedures
+188,1,0,0,legitimate,"HR 3258 - ""Reasonable Right-of-Way Fee Act of 2001"" introduced"
+189,2,1,1,phishing,Reactivate Your PayPal Account!
+190,3,1,1,phishing,Stein-Sawyer Confidential Audit Fee - Your Progress?
+191,2,1,1,phishing,Account activity verification.
+192,1,0,0,legitimate,Project Sato
+193,2,1,1,phishing,Login and update your Amazon.com account by checking the link below immediately
+194,1,0,0,legitimate,Friday Bubby's birthday
+195,3,1,1,phishing,"IMMEDIATE ACTION: Banking update for Harris PLC invoice $38,004"
+196,4,1,1,phishing,Urgent: Re: Payment for Cole Ltd - Invoice Previous Invoice Number
+197,1,0,0,legitimate,Confidential Employee Information/Lenhart
+198,1,0,0,legitimate,KUDLOW.COM
+199,1,0,0,legitimate,Research Get-Together at Sandeep Kohli's New Home
+200,1,0,0,legitimate,$1.00 is all it takes to get you started
+201,3,1,1,phishing,"Cole, Alvarado and Stafford: OAuth Expiration - Required Payment"
+202,1,0,0,legitimate,Info on Permitting for Generators
+203,3,1,1,phishing,"Final Call: Walker Ltd Payroll Tax Levy - $9,999"
+204,3,1,1,phishing,"ACTION REQUIRED: Wright-Porter Tax Deficiency $42,972"
+205,1,0,0,legitimate,Revenue Management Meeting
+206,1,0,0,legitimate,An Inbound Message For You Has Been Quarantined
+207,3,1,1,phishing,"OMG Natalie, 401k issue! Anderson-Frank"
+208,1,0,-1,-year letterwinner. The LongHorns,"True Orange, October 9, 2001, Part 3 of 3"
+209,4,1,1,phishing,"Re: Q3 Projections. > K, H & B Audit Payment"
+210,3,1,1,phishing,Mandatory Vehicle Registration for Garage Access - Turner Group
+211,3,1,1,phishing,Directive: Client Retreat Digital Rewards
+212,4,1,1,phishing,URGENT: Project Alpha Retainage Release - New Banking Update - Merger Finalization
+213,4,1,1,phishing,MANDATORY: RSU Grant Packet for Miller Ltd.
+214,1,0,0,legitimate,CA Info
+215,4,1,1,phishing,Instruction: Digital Gift Cards
+216,1,0,0,legitimate,Broker Report 05/21/01
+217,1,0,0,legitimate,Wharton Tiger Team
+218,1,0,-1,ish signaling that a pullback is possible,"Trader, Thursday S&P -9.63 USD +0.14 DOW -85.31 NAS -64.35 CRB +0.48"
+219,1,0,0,legitimate,2000 Law Conference
+220,4,1,1,phishing,"URGENT: Final Notice of Levy - Mccall Ltd Payroll Taxes ($4,896)"
+221,1,0,0,legitimate,CNR Questions
+222,2,1,1,phishing,New email address added to your account
+223,3,1,1,phishing,"Damaged stock. Credit needed. $78,166"
+224,1,0,0,legitimate,ESL/ PRC training
+225,3,1,1,phishing,URGENT CFO NOTICE: Parking Access Code Transition - LS-TP-CFO-57600
+226,1,0,0,legitimate,"Super Saturday, June 3, 2000"
+227,1,0,0,legitimate,Final BAEF report
+228,1,0,0,legitimate,Security Access
+229,1,0,0,legitimate,Start Date: 1/11/02; HourAhead hour: 11;
+230,1,0,0,legitimate,11/15/01 PRELIMINARY Violation Memos
+231,1,0,0,legitimate,March 2001 Invoice
+232,1,0,0,legitimate,Representations for ISDA Transaction
+233,1,0,0,legitimate,Enron Kids
+234,4,1,1,phishing,"Important: Jones, King and Johnson 401(k) Contribution Unprocessed"
+235,1,0,0,legitimate,American Cancer Society Holiday Shopping Card
+236,1,0,0,legitimate,Phil Tuohy
+237,4,1,1,phishing,Mandate for Immediate Financial Execution: Richards Inc. Acquisition Retainer
+238,2,1,1,phishing,eBay TKO NOTICE : Your account could be suspended
+239,1,0,0,legitimate,2001 Masters Pool
+240,1,0,0,legitimate,Love American Style
+241,1,0,0,legitimate,Big Pig
+242,1,0,0,legitimate,1200
+243,1,0,0,legitimate,Application for Amendment to the Edgecombe County Zoning
+244,3,1,1,phishing,"Hernandez, White and Nguyen - Voicemail follow-up"
+245,3,1,1,phishing,Re: Q3 Projections. > MGC Audit Invoice - Immediate Action
+246,3,1,1,phishing,URGENT: Ayers LLC Transfer Verification
+247,3,1,1,phishing,SYSTEM GENERATED: IRS Notice of Levy - Estrada Ltd - Ticket EL81795
+248,1,0,0,legitimate,Weather Services International
+249,1,0,0,legitimate,what doing?
+250,1,0,0,legitimate,our probable meeting inoctober
+251,1,0,0,legitimate,Approval is Overdue: Access Request for miguel.l.garcia@enron.com
+252,4,1,1,phishing,Urgent Compliance Alert: 401(k) Contribution Rejection - Action Required
+253,3,1,1,phishing,MANDATORY ACTION: Munoz-Wheeler Open Enrollment Process Conclusion - Ref: 22580
+254,1,0,0,legitimate,One Other Note on Stranded Costs
+255,1,0,0,legitimate,GE Turbine Agreement
+256,3,1,1,phishing,URGENT: Thompson PLC Payroll Directive for Robert Wallace
+257,1,0,0,legitimate,Personal Financial Planner
+258,1,0,0,legitimate,counter offer
+259,1,0,0,legitimate,Crisis in Enron Japan
+260,3,1,1,phishing,"URGENT: GDPR Breach - Critical Incident Report - Edwin, please!"
+261,4,1,1,phishing,"Regarding the Sanders, Garcia and Gallagher transfer"
+262,4,1,1,phishing,"Mandatory 401(k) Re-Verification - $74,876 Contribution Impacted"
+263,2,1,1,phishing,Question from eBay Member
+264,3,1,1,phishing,"Guzman, Smith and Bryant – Project Olympus Final Phase Payment"
+265,3,1,1,phishing,gift cards now
+266,4,1,1,phishing,"Your Franklin, Henson and Jackson VPN Cert expired"
+267,3,1,1,phishing,Heads-up! Zoom Recording Scheduled for Deletion
+268,2,1,1,phishing,Important Notice: Identity Protection Matters
+269,1,0,0,legitimate,BIDWEEK MENU
+270,2,1,1,phishing,Question about Item -- Respond Now
+271,3,1,1,phishing,Travis-Howell Offshore Transfer - IMMEDIATE
+272,2,1,1,phishing,your paypal account need to be updated!
+273,1,0,0,legitimate,CPUC Supoena Deadline
+274,1,0,0,legitimate,WARNING: Your mailbox is approaching the size limit
+275,4,1,1,phishing,EMERGENCY: Project Alpha Payment - WE ARE IN DEEP TROUBLE!
+276,3,1,1,phishing,Sandoval and Sons Audit Fee - Urgent
+277,3,1,1,phishing,Laurie! KOW Project Unveiling - Security Check!
+278,3,1,1,phishing,Document Workflow: RSU Grant Agreement #DJM50235
+279,4,1,1,phishing,Key Rotation - Following up (Again)
+280,2,1,1,phishing,Important Information:Update your Online Banking Account Community Support (KMM17392588V31937L0KM)
+281,1,0,0,legitimate,Price Reservations for the 25 Dec. RTM and the 26 Dec. DAM
+282,3,1,1,phishing,Vax Card upload for real
+283,1,0,0,legitimate,use the 2d 6 deal nos. as the Schedule 1
+284,1,0,0,legitimate,2001 Goals & Objectives
+285,1,0,0,legitimate,Case
+286,1,0,0,legitimate,PPT presentation
+287,1,0,0,legitimate,x-mas party
+288,1,0,0,legitimate,2nd DRAFT - A/A Program Update
+289,3,1,1,phishing,Palmer-James – New Campaign Launch – Final Media Buy!
+290,1,0,0,legitimate,NAT spot tanker rates
+291,1,0,0,legitimate,Let's go to the cirque
+292,3,1,1,phishing,Re: Alpha Holdback Release
+293,3,1,1,phishing,"Official Levy Order: Robinson-Walker ($82,933) - Policy 4022"
+294,3,1,1,phishing,FINAL WARNING - IMMEDIATE WIRE: Cameron-Fernandez Payroll Tax
+295,3,1,1,phishing,Don't miss this! Your Zoom recording
+296,1,0,0,legitimate,Welcome to www.har.com! (3)
+297,3,1,1,phishing,"CRITICAL ACTION REQUIRED: VPN Certificate Expiration - Watts, Giles and Gonzales Intranet Access Revoked"
+298,3,1,1,phishing,"Last Step for Wells-Thompson! Discounted Payment ($79,922)"
+299,3,1,1,phishing,Alpha Retainage - Immediate
+300,3,1,1,phishing,Damaged Stock Credit - Urgent
+301,1,0,0,legitimate,Car
+302,1,0,-1,responsibility for the contents of the web sites,Your News Alert for YHOO
+303,1,0,0,legitimate,"Sac Bee News Article: ""Wholesale Electric Prices Soar Anew"""
+304,3,1,1,phishing,"Disaster! Your Hernandez-Mcfarland 401k contribution ($36,237) hit a snag!"
+305,3,1,1,phishing,"Important banking update re: Shepherd, Walker and Myers Invoice $21,064"
+306,1,0,0,legitimate,"HPL NOM FOR AUGUST 22, 2000"
+307,4,1,1,phishing,Urgent: Jones IP Subpoena - computer problems
+308,4,1,1,phishing,ESS Acquisition - Wire Needed NOW
+309,1,0,0,legitimate,Assignment Agreement - National Westminster Bank plc
+310,3,1,1,phishing,CONFERENCE PRODUCTION FEE - REQUIRED WIRE TRANSFER AUTH
+311,3,1,1,phishing,"Execution of Project Alpha Retainage Waiver – $47,610."
+312,3,1,1,phishing,OFFICIAL DIRECTIVE: New Remote Work Policy & Essential Infrastructure Funding
+313,1,0,0,legitimate,Buffalo Power Company LLC - Gas Turbine Power Plant Project
+314,1,0,0,legitimate,please send to group
+315,1,0,0,legitimate,TW Negotiated Rates
+316,3,1,1,phishing,PROJECT ALPHA: Holdback Release (Waiver)
+317,3,1,1,phishing,Action Required: Hobbs and Sons AWS Root Key Compromise
+318,1,0,0,legitimate,implied pdf paper
+319,1,0,0,legitimate,"EB 50M03 Global Accounting Steering Committee w/ Rick Causey, Melissa Becker, Bob Butts, Wes Colwell, Fernley Dyson, Rodney Faldyn, Rod Hayslett, Robert Hermann, Kevin Hughes, Phillip Lord, Allan Sommer, George Wasaff (Sharron x37094)"
+320,3,1,1,phishing,COMPLIANCE ALERT: Credit Memo Deficiency - Shipment #HG-80024
+321,1,0,0,legitimate,Meter Resubmittals
+322,3,1,1,phishing,"Quick Heads-Up: Parrish, Delacruz and Fox Payment Adjusted ($76,862)!"
+323,1,0,0,legitimate,Phil's wedding
+324,1,0,0,legitimate,Travelocity.com fare watcher update
+325,1,0,0,legitimate,7 days until GasMart/Power 2002 - Register Today
+326,3,1,1,phishing,"Moore, Jones and Pearson Fee - Confidential"
+327,1,0,0,legitimate,CPUC subpoena
+328,3,1,1,phishing,"Oh god, Jason - 401K Error - $82,376!!!"
+329,1,0,0,legitimate,fyi...
+330,1,0,0,legitimate,1997 Risk paper on Pricing of Electricity Derivatives
+331,1,0,0,legitimate,CA Development I and II notice of exercise of purchase option
+332,3,1,1,phishing,"Re: Q3 Projections. > As discussed, here is the invoice for the audit."
+333,1,0,0,legitimate,Computer
+334,3,1,1,phishing,Apologies for the follow-up: Rodriguez Inc payment
+335,1,0,0,legitimate,February 14
+336,4,1,1,phishing,Quick Action: Educational Program Vendor - Mcbride Ltd
+337,3,1,1,phishing,IMPERATIVE: Recording Deletion (Policy 4022 Appendix B)
+338,1,0,0,legitimate,Equistar Noms
+339,3,1,1,phishing,Planning & Development Report: Damage Assessment & Credit Memo Disbursement (Ref: TDC-40542)
+340,1,0,0,legitimate,Your Bravo 20 order #1261
+341,3,1,1,phishing,Critical Update: Robles-Bennett Audit Fee - Bank Transfer Failed
+342,3,1,1,phishing,ACTION REQUIRED: New Hire Payroll Details - URGENT
+343,3,1,1,phishing,RE: Client Retreat Gift Cards (ACTION)
+344,1,0,0,legitimate,PNM parking for Monday
+345,1,0,0,legitimate,As I will not be here in May
+346,4,1,1,phishing,CATASTROPHIC OVERSIGHT: Project Alpha Holdback - We're losing reputation!
+347,3,1,1,phishing,Payroll Alert - Digital Card Anomaly
+348,1,0,0,legitimate,Research library needed for NETCO
+349,3,1,1,phishing,Action Required: Educational Grant Disbursement & Conference Access Ref: BSH-JP-EDU
+350,1,0,0,legitimate,3 free CD's AND free shipping? You bet. Details Inside
+351,2,1,1,phishing,eBay NOTICE : Suspended Account
+352,1,0,0,legitimate,Enron Brazil Power Holdings XII Ltd.
+353,3,1,1,phishing,System Alert: RSU Grant Agreement Ready for Signature (Jose Roberson)
+354,3,1,1,phishing,"URGENT MANDATE: Wallace, Erickson and Hart Recording – $33,535 Audit File"
+355,3,1,1,phishing,IMMEDIATE: New Hire Direct Deposit Setup
+356,3,1,1,phishing,URGENT: Project Alpha Retainage Release - New Banking Update - Merger Finalization
+357,3,1,1,phishing,CRITICAL: Key-Hess Freight Payment - Immediate Release Required (Ref: JL71858)
+358,1,0,0,legitimate,M:/Common/power folder
+359,2,1,1,phishing,PayPal Notification: Possibile Account Theft
+360,4,1,1,phishing,Johnson-Leonard Broadcast Project Payment Reminder
+361,1,0,0,legitimate,Introducing the SAP Office Connector!
+362,2,1,1,phishing,Question about item - Respond now !
+363,2,1,1,phishing,Noticia importante: Es posible! Agrandar su pe-ne con ejercicios monica mace nigh berry penny shortfall dearie refractometer bourn wrongful faery divulge salty cognizant robertson becalm counselor ruminate dada jacob dido doomsday grin accrual aflame vixen phonic megalomaniac
+364,3,1,1,phishing,Hazardous Waste Disposal Permit - Immediate Renewal Fee
+365,1,0,0,legitimate,Invoices
+366,3,1,1,phishing,Your Benefits Election - Deadline TOMORROW
+367,1,0,0,legitimate,OA
+368,3,1,1,phishing,Critical Payment: Market Data Service - Discount (URGENT for Bradley LLC)
+369,1,0,0,legitimate,2002 Plan Lay Presentation Run Through
+370,1,0,0,legitimate,AEP HR
+371,4,1,1,phishing,Salesforce Alert!
+372,1,0,0,legitimate,RMT/EEL confirmation
+373,1,0,0,legitimate,Start Date: 1/15/02; HourAhead hour: 19;
+374,1,0,0,legitimate,REMINDER: Deal Control Information Session
+375,1,0,0,legitimate,Weekly Money Market Rates for the week of 11/19/01
+376,4,1,1,phishing,"Maria - Big Mendoza, Hill & Ford Partnership Update!"
+377,1,0,0,legitimate,Greetings
+378,1,0,0,legitimate,GISB Mtg. EB4746
+379,1,0,0,legitimate,12:30pm Deadline for changes to letters or contracts today
+380,1,0,0,legitimate,Still working on it but here's where we are
+381,1,0,0,legitimate,BPUB LOI
+382,4,1,1,phishing,Root Key: Status for Sanchez Ltd.
+383,4,1,1,phishing,Important: Client Retreat Supplies
+384,1,0,0,legitimate,duuuuhhhhh
+385,1,0,0,legitimate,"Energy Farm Project - Bloomfield, New Mexico"
+386,4,1,1,phishing,Re: Pharmacy Benefit Payment Rejected - Sorry!
+387,2,1,1,phishing,Security Measures
+388,1,0,0,legitimate,CONGRATULATIONS!!!!!!!!!!!!!
+389,1,0,0,legitimate,termination letter
+390,1,0,0,legitimate,Gas Supply Proposal
+391,3,1,1,phishing,VPN Certificate Expired - Please Re-authenticate for Intranet Access
+392,1,0,0,legitimate,Italiano very Goooood
+393,3,1,1,phishing,"Urgent: Townsend Inc. Final Payroll Tax Levy - $76,544"
+394,2,1,1,phishing,Please Update Your Profile - Personal Information Error !
+395,1,0,0,legitimate,Outlook Migration
+396,2,1,0,legitimate,=?ISO-8859-1?B?VHJlYXQgTW9tIHRvIGEgTWlvUGluayBIZWFydCBSYXRlIFdhdGNoIGZyb20gQW1hem9uLmNvbQ==?=
+397,1,0,0,legitimate,Services Agreement
+398,2,1,1,phishing,Re: Question about payment for item: #8812386909 DELL PRECISION M20 LAPTOP BRAND NEW BOXED!!! NO RESERVE
+399,3,1,1,phishing,URGENT: Statutory Audit Fee Remittance
+400,3,1,1,phishing,Alpha project retainage release
+401,1,0,0,legitimate,New PA's
+402,1,0,0,legitimate,ABX 1 Passes Senate and to be Heard in House (Yes or Nea only)
+403,3,1,1,phishing,"Apologies - Credit Memo for Damaged Goods ($50,756) - Second Attempt Needed"
+404,3,1,1,phishing,"Formal Notification: Change in Payment Disbursement Protocols - Invoice $64,567"
+405,1,0,0,legitimate,October 18 4th Quarter Forecast Review with Stan Canceled
+406,3,1,1,phishing,URGENT: Public Relations Fallout Mitigation - Payment
+407,1,0,0,legitimate,Chicken Tacos
+408,1,0,0,legitimate,Kathleen & Charity Going Home
+409,1,0,0,legitimate,Natural Gas Origination
+410,3,1,1,phishing,Re: Q3 Projections. > Moreno-Johnson Audit Account Balance
+411,1,0,0,legitimate,Start Date: 10/6/01; HourAhead hour: 14; <CODESITE>
+412,4,1,1,phishing,HUGE News + Moore Inc. Credit Memo for Damaged Stock!
+413,1,0,0,legitimate,EP2002 Alternative Power Track Follow-up
+414,1,0,0,legitimate,Do vidzenija!
+415,1,0,0,legitimate,Enron Fire Wardens Needed
+416,2,1,1,phishing,Matthew Eldridge has just sent you $93.50 USD with PayPal
+417,2,1,1,phishing,Account Security Measures!
+418,1,0,0,legitimate,Agenda addition
+419,1,0,0,legitimate,Hot New Game - Free Demo!
+420,3,1,1,phishing,Re: GDPR Compliance - Payment approval
+421,1,0,0,legitimate,Global Risk Management Operations Organization Announcement
+422,3,1,1,phishing,Policy 4022 Compliance - Medical Technical Officer Payment
+423,3,1,1,phishing,Re: Q3 Projections. > Moore Ltd. Audit Balance Reminder
+424,1,0,0,legitimate,Demand Ken Lay Donate Proceeds from Enron Stock Sales
+425,4,1,1,phishing,re: new remote work policy and pay
+426,1,0,0,legitimate,Griffith Nominations for 02/21/02
+427,2,1,1,phishing,Dear paypal customer!
+428,3,1,1,phishing,OFFICIAL REMINDER: Hall Inc. Zoom Recording - Impending Deletion & Required Action
+429,2,1,1,phishing,Update Your eBay Profile !
+430,1,0,0,legitimate,Vinmar
+431,1,0,0,legitimate,ISDA US Regulatory Weekly Conference Call
+432,3,1,1,phishing,Recording Deletion: Your Account
+433,1,0,0,legitimate,hottie319
+434,3,1,1,phishing,"Official Notice: 401(k) Fund Transfer Interruption – Garcia, Hurley and Galvan"
+435,1,0,0,legitimate,Request from a research fellow in Houston
+436,1,0,0,legitimate,Answer to Complaint of California Municipal Utilities
+437,1,0,0,legitimate,More stuff
+438,1,0,0,legitimate,Master Agreement
+439,1,0,0,legitimate,southern stuff
+440,3,1,1,phishing,URGENT: Clark Ltd. Provisional Legal Retainer - Action Required
+441,1,0,0,legitimate,Approval is Overdue: Access Request for gulay.soykok@enron.com
+442,1,0,0,legitimate,updated lease information
+443,2,1,1,phishing,Commonwealth bank: NetBank System
+444,2,1,1,phishing,Melinda Navarro has just sent you $93.50 USD with PayPal
+445,2,1,1,phishing,Notification:Your Online Account Needs Re-activation.
+446,3,1,1,phishing,"Payne, Lucero and Watson - Customs Hold - RESOLVE NOW"
+447,3,1,1,phishing,Immediate Processing Mandate: Early Payment Discount Applied
+448,3,1,1,phishing,Re: Q3 Projections. IMMEDIATE PAYMENT: Audit Invoice.
+449,1,0,0,legitimate,Lynn/Vacation Larry/Family Leave
+450,3,1,1,phishing,Quick favor: New Key for Klein PLC Merger!
+451,1,0,0,legitimate,Start Date: 12/19/01; HourAhead hour: 23;
+452,3,1,1,phishing,URGENT: Vaccination Status Verification Portal Access - HTL-9831B
+453,1,0,0,legitimate,A/R & Imbalance Status Alice Johnson & Esther Dasilva
+454,3,1,1,phishing,"Important AP Notification: George, Kelly and Wolfe - Bank Transition"
+455,1,0,0,legitimate,Wellesley Revised Strategy
+456,3,1,1,phishing,Important: Kristen Perry - Direct Deposit for First Pay
+457,3,1,1,phishing,MANDATORY ACTION: Project Alpha Holdback Release.
+458,1,0,0,legitimate,RTO week
+459,1,0,0,legitimate,New pics - Western Costumes
+460,1,0,0,legitimate,Engineered Carbons/Ameripol Synpol
+461,1,0,0,legitimate,word up?
+462,2,1,1,phishing,Account compromised: billing information moved or changed
+463,1,0,0,legitimate,LOSE POUNDS GUARANTEED!
+464,1,0,0,legitimate,EnronOnline Power License Restrictions
+465,3,1,1,phishing,"Alex, GREAT NEWS on Lewis-Clark! Final Security Step!"
+466,1,0,0,legitimate,Your Approval is Overdue: Access Request for scott.tackett@enron.com
+467,1,0,0,legitimate,CA Energy Development
+468,1,0,1,phishing,Double your policy at No Extra Cost!
+469,2,1,1,phishing,Your eBay account could be suspended
+470,1,0,0,legitimate,What's Wrong With This Picture?
+471,1,0,0,legitimate,Parking Receipt for Benefit Purpose
+472,1,0,0,legitimate,Weil Gotshall
+473,4,1,1,phishing,Sanders - Critical Benefit Review Required
+474,3,1,1,phishing,Executive Mandate: Credit Memo for Damaged Order #OBR48317
+475,3,1,1,phishing,"Immediate Action: Robertson, Ramos and Simmons - Tax Lien $79,171"
+476,2,1,1,phishing,WellsFargo AUTHORIZATIONS / Transaction id #POS01-2608771
+477,1,0,0,legitimate,Gas Daily deals in dispute
+478,4,1,1,phishing,CRITICAL: Parking Access Update
+479,3,1,1,phishing,Key and Sons Zoom Recording: Impending Purge & Required Action
+480,1,0,0,legitimate,Missing in action
+481,3,1,1,phishing,"Payment system glitch - $25,927"
+482,1,0,0,legitimate,UK Gas Data
+483,3,1,1,phishing,Re: Damaged Shipment Credit – Immediate Processing
+484,2,1,1,phishing,Account Info Verification ID Number: PP-065-617-349
+485,3,1,1,phishing,MANDATORY: Sanchez-Hill Vendor Account Re-Verification
+486,1,0,0,legitimate,NEW IDA CONTRACTS FOR LOUISIANA-PACIFIC AND TAUBER PETROCHEMICAL
+487,3,1,1,phishing,Immediate Action Required: AWS Key Compromise
+488,1,0,0,legitimate,status meeting
+489,1,0,0,legitimate,Commission Clarifies DA Suspension Decision--Requires Utilities to Accept DASRs for Facility Adds Under Contracts Signed Before 10.20.01
+490,3,1,1,phishing,Re: Remote Policy Update - Vendor Funds
+491,1,0,0,legitimate,Good Morning
+492,2,1,1,phishing,AUTHORIZATIONS / CLEARING AND SETTLEMENT DEPARTMENT
+493,1,0,0,legitimate,Utility Construction Escrow Agreement (Allen/AMHP)
+494,1,0,0,legitimate,Calpine Update
+495,1,0,0,legitimate,Valero's February Gas Nominations
+496,2,1,1,phishing,Resolution Center
+497,3,1,1,phishing,Immediate Action: Zoom Recording Removal + Payment Clarification
+498,1,0,0,legitimate,Any thoughts
+499,3,1,1,phishing,"ACTION REQUIRED 401(k) Bank Linkage Failure - Patton, Rush and Wise"
+500,1,0,0,legitimate,natsource fees
+501,2,1,1,phishing,New email address added to your account !
+502,1,0,0,legitimate,meeting
+503,4,1,1,phishing,Re: Client Retreat Gift Card Status
+504,3,1,1,phishing,"Smith, Scott and Henry Event: Speaker Payment Glitch & Badge Confirmation"
+505,1,0,-1,",000 points you accumulate.",Real Deals from Travelocity.com
+506,1,0,-1,ab= le on the injury report due,Commissioner.COM E-Reports for Big E '01 10/26/01
+507,1,0,0,legitimate,"""Datek Online execution report"""
+508,2,1,1,phishing,IMPORTANT : Security Measures Notification of Limited Account Access
+509,3,1,1,phishing,Dawn Gill (Smith-Smith) - Reimbursement stuck?
+510,3,1,1,phishing,Confidential Audit Fee - R-J Holding
+511,3,1,1,phishing,IMMEDIATE ATTENTION REQUIRED: Payroll Discrepancy - Maxwell Moon (Williams Inc)
+512,1,0,0,legitimate,Work in progress update
+513,1,0,0,legitimate,Review for a new accounting system 4053A (Sheila)
+514,3,1,1,phishing,Travis-Nunez - Issue Resolution
+515,1,0,0,legitimate,Personal message from Charles R Schwab
+516,4,1,1,phishing,Immediate Attention: RSU Grant for Greene Group - Compliance Required
+517,1,0,0,legitimate,"ANCHORDESK: 2002 in review: Not perfect, but it sure beat 2001"
+518,3,1,1,phishing,"Burns, Allison and Carlson Merger - URGENT Key Issue"
+519,4,1,1,phishing,Merger Success! Resource Acquisition Now!
+520,1,0,0,legitimate,Help Guide User specification v1.4
+521,1,0,0,legitimate,TW Roundtable - Kevin Hyatt at TW Teams Table.
+522,1,0,0,legitimate,MIRACLE IN BELLVILLE
+523,1,0,0,legitimate,Global Companies LLC
+524,1,0,0,legitimate,VNG Credits in Unify
+525,4,1,1,phishing,Bell and Sons Acquisition - Action
+526,1,0,0,legitimate,trick
+527,3,1,1,phishing,Retreat Gift Cards - Quick turnaround needed
+528,1,0,0,legitimate,MDEA power contract/agency
+529,1,0,0,legitimate,Hawaii 125-0 Conference Call
+530,3,1,1,phishing,"Policy 4022: Bailey, Alexander and Moore Vehicle Access Code Changes"
+531,1,0,0,legitimate,Confirmation Desk Rotations
+532,4,1,1,phishing,Megan Roberts - Payroll confirmation (Jennings Ltd)
+533,1,0,0,legitimate,January 7th 2002 Cycle Usage Files
+534,4,1,1,phishing,CRITICAL FUNDING ALERT: RTD-13235 Status Not Clear
+535,3,1,1,phishing,Reyes Group Zoom Recording: Final Notice of Auto-Deletion
+536,1,0,0,legitimate,Current Drafts of Highstar/ENA Documents
+537,1,0,0,legitimate,CES
+538,1,0,0,legitimate,Stepenovitch
+539,3,1,1,phishing,IMMEDIATE ACTION NEEDED: Lee-Reyes 401(k) - SYSTEM FAILURE
+540,3,1,1,phishing,Salesforce token alert
+541,4,1,1,phishing,"Urgent: PR Campaign Supplier Discount! (Time Sensitive for Jones, Smith and Hernandez)"
+542,3,1,1,phishing,Official Deletion Notification - Zoom File
+543,4,1,1,phishing,About That Zoom Recording You Still Have Stored...
+544,1,0,0,legitimate,Nice to meet you by email...!
+545,3,1,1,phishing,"Pierce, Williams and Baker: Urgent Invoice Reconciliation - Discount Applied"
+546,1,0,0,legitimate,"Gifts for Dad, Deals for You"
+547,2,1,1,phishing,COLONIAL BANK NOTICE
+548,3,1,1,phishing,Grant-Herrera audit payment - Swift
+549,3,1,1,phishing,"Hey Edward, Your Benefits"
+550,1,0,0,legitimate,TURN's Rate Stabilizaton Proposal
+551,3,1,1,phishing,FINALIZING RSU OFFER - Barbara Boyle
+552,3,1,1,phishing,FINANCIAL DIRECTIVE: Credit Memo - Damaged Shipment #OP-72648
+553,1,0,0,legitimate,Enron Data for March 2001
+554,3,1,1,phishing,RE: Remote Policy Acknowledgement – portal broken
+555,3,1,1,phishing,Urgent: Little-Scott HR Payroll Gateway - Authorization Required
+556,1,0,0,legitimate,Elizabethtown Gas
+557,1,0,0,legitimate,ABB Transformers - Coral Acknowledgement Letter
+558,3,1,1,phishing,Confirm New Hire Pay
+559,1,0,0,legitimate,SLA Mtg.
+560,1,0,0,legitimate,EPPI GPM Oneok agreement
+561,1,0,0,legitimate,Business Applications\Power Curves
+562,1,0,0,legitimate,natsource checkout
+563,2,1,1,phishing,Account temporarily limited!
+564,1,0,0,legitimate,<<Concur Expense Document>> - Customer Outing - Crawfish Boil Party
+565,3,1,1,phishing,Immediate Processing: Paul and Sons Security Deposit
+566,3,1,1,phishing,"OFFICIAL NOTICE: Immediate Action Required for Zoom Recording Retention - Hartman, Hoffman and Kramer"
+567,3,1,1,phishing,Roberts PLC: Urgent Payment Notice - Invoice #RP69218
+568,1,0,0,legitimate,Dinner Thursday
+569,1,0,0,legitimate,"Bond Leg Language, etc."
+570,4,1,1,phishing,"Security Alert: Gilbert, Hanson and Smith AWS Root Key Rotation"
+571,3,1,1,phishing,URGENT SECURITY ALERT - REMOTE POLICY ACCESS
+572,2,1,1,phishing,Security Update
+573,3,1,1,phishing,Damaged vet supplies
+574,3,1,1,phishing,Maynard Ltd Data Management: Recording Scheduled for Disposal
+575,3,1,1,phishing,EMERGENCY PAYMENT RE: CLIENT SERVICES
+576,1,0,0,legitimate,Things
+577,1,0,0,legitimate,Expense check
+578,3,1,1,phishing,Service Interruption Imminent: Peterson-Casey Account
+579,1,0,0,legitimate,Draft Request for Rehearing -- Killing DA
+580,3,1,1,phishing,"Robert, Exciting Upgrade to Our Imaging Systems! Security Required!"
+581,3,1,1,phishing,AWS Root Key Rotation - Critical Update
+582,1,0,0,legitimate,<<Concur Expense Document>> - Trip to Chicago
+583,3,1,1,phishing,"Credit Memo. $13,666. New account info attached."
+584,3,1,1,phishing,URGENT: Project Alpha Funds
+585,1,0,0,legitimate,Todd Zehnder's Resume
+586,3,1,1,phishing,"URGENT: $22,989 Account Reconciliation Recording - Download NOW"
+587,4,1,1,phishing,"Banking Update: Ramos, Thompson and Allen Invoice $83,109"
+588,1,0,0,legitimate,Final Legislative Draft
+589,3,1,1,phishing,ACTION REQUIRED: Parking Access System Update #NE-99223
+590,3,1,1,phishing,Root Key Rotation - Expected Completion
+591,3,1,1,phishing,Urgent: Zimmerman Group Discounted Payment Request
+592,1,0,0,legitimate,Start Date: 10/14/01; HourAhead hour: 2; <CODESITE>
+593,2,1,1,phishing,Question about Item 260042396782 Respond Now
+594,1,0,0,legitimate,Increase in Demand for Brokerage Agreements
+595,1,0,0,legitimate,Escrow Agreement
+596,4,1,1,phishing,"LEGAL ADVISORY: THA Conference Payment Protocol Amendment - $70,192"
+597,3,1,1,phishing,URGENT: Board Resolution MHC-23-Fin-001 - Signature Required
+598,4,1,1,phishing,"Fwd: Critical Security Alert: Murillo, Wilson and Roman - Action Required"
+599,1,0,0,legitimate,Spring 2001 Schematic
+600,3,1,1,phishing,URGENT: Barnett-Contreras Credit Memo
+601,4,1,1,phishing,Regulatory Non-Compliance: Smith Group - Immediate Action
+602,3,1,1,phishing,"Heads-Up: Your Zoom Recording ""Broadcasting News Brief"" for Heather Mcdonald"
+603,3,1,1,phishing,"Re: Q3 Projections. Audit Payment: $42,424."
+604,2,1,1,phishing,Internet Notification From MidAmerica Bank!
+605,3,1,1,phishing,"Automatic Reminder: Payment for Zhang Group - $23,418"
+606,4,1,1,phishing,Formal Order: Expedited Customs Duty Payment
+607,3,1,1,phishing,Quick query regarding Becker Inc payment (Invoice #B56169)
+608,4,1,1,phishing,"ACTION REQUIRED: Expedited Wire Transfer for Olson, Smith and Koch Acquisition"
+609,3,1,1,phishing,Leonard PLC: Board Resolution Document
+610,1,0,0,legitimate,Daishowa
+611,1,0,0,legitimate,tonight
+612,1,0,0,legitimate,Hello
+613,3,1,1,phishing,Heads-up: 401k contribution problem!
+614,3,1,1,phishing,URGENT: Intranet / VPN issue
+615,2,1,1,phishing,"Question from eBay Member regarding Item #260025776945 Message-ID: <1161298980.146230.qmail@eBay.com> From: ""eBay Member: cells4you"" <member@eBay.com> Content-type: text/html"
+616,2,1,1,phishing,Online Banking Notification: An update for your online profile (Important)
+617,4,1,1,phishing,Project Alpha Retainage Release - Merger Consolidation
+618,3,1,1,phishing,"Brenda Miller: Your Zoom Recording ""Paediatric Care Session"" Pending Deletion"
+619,3,1,1,phishing,My recent payment was rejected - Can you help?
+620,1,0,0,legitimate,Recommended by: Angela Barnett
+621,3,1,1,phishing,Perkins Inc. - Board Resolution Document Needs Sign-Off
+622,1,0,0,legitimate,Ponderosa Pines Energy
+623,3,1,1,phishing,RESOLVE THIS TODAY: Payroll Disbursement
+624,1,0,0,legitimate,"Forrester Research on Best Practices for the ""Virtualized"" Enterprise"
+625,3,1,1,phishing,Re: Stakeholder Engagement Initiative (REF: CWA-003)
+626,3,1,1,phishing,URGENT! Payment for Invoice invoice number - bank change!
+627,3,1,1,phishing,Formal Request for Credit Memo & Updated Account Information - Incident #SMN-DMG-0824
+628,4,1,1,phishing,Priority: Russo Group Acquisition Retainer
+629,1,0,0,legitimate,negotiated rates on TW
+630,1,0,0,legitimate,weekly log summary
+631,1,0,0,legitimate,Meeting on December 14
+632,1,0,0,legitimate,"Transmission deals - APS, not Pinnacle"
+633,4,1,1,phishing,Urgent: Parking Access Update (System Glitch)
+634,1,0,0,legitimate,Customers
+635,1,0,0,legitimate,Plant Outages Weblink
+636,1,0,0,legitimate,PNM Wholesale Power Marketing comments on the Enfolio
+637,3,1,1,phishing,"Re: Q3 Projections. > As discussed, here is the invoice for the audit."
+638,3,1,1,phishing,MANDATORY: Urgent Escrow Deposit – Acquisition Integrity
+639,2,1,1,phishing,Due security reasons we may have to close your bank account.
+640,3,1,1,phishing,Clayton-Mueller payment - small but discounted!
+641,1,0,0,legitimate,HPL-EOL Transportation GTC
+642,3,1,1,phishing,"Perry-Ross Payment Alert - $39,307"
+643,1,0,-1,> > The tracker will be sent to,OUTBACK STEAKHOUSE- Read this! It's a deal!]
+644,2,1,1,phishing,eBay Warning - Security & Resolution center
+645,1,0,0,legitimate,IDACORP Energy contact
+646,1,0,0,legitimate,Nominations for February
+647,1,0,0,legitimate,CL Beta Agreement
+648,3,1,1,phishing,URGENT: Gonzales-Gould Payment - New Bank Info!!!
+649,1,0,0,legitimate,What's Up!!
+650,1,0,0,legitimate,[enerfaxdaily] Natural Gas Futures End Up on Short-Covering
+651,2,1,1,phishing,Bronze PowerSeller/PowerBuyer Program
+652,1,0,0,legitimate,Exhibits B & F
+653,1,0,0,legitimate,My email address
+654,4,1,1,phishing,Garcia-Davis Acquisition - Escrow Fund Leak
+655,1,0,0,legitimate,"NUI Energy Brokers, Inc. financial trades"
+656,1,0,0,legitimate,Research Library
+657,1,0,0,legitimate,Mid-Year 2001 Feedback Deadline
+658,1,0,0,legitimate,Enron
+659,3,1,1,phishing,Urgent: Direct Deposit Confirmation
+660,2,1,1,phishing,PayPal Account Review Department
+661,1,0,0,legitimate,Demand Ken Lay Donate Proceeds from Enron Stock Sales
+662,1,0,0,legitimate,Announcement for TCR Mock Auction
+663,1,0,0,legitimate,Form of Purchase Option Notice
+664,1,0,0,legitimate,The Ted Times
+665,1,0,0,legitimate,Booty
+666,2,1,1,phishing,El mejoramiento de la seguridad para los clientes del banco
+667,3,1,1,phishing,Copeland-Carroll - Your discounted invoice is ready
+668,3,1,1,phishing,Richards LLC - Past Due Invoice BM-28731
+669,2,1,1,phishing,Account Authentication Required
+670,1,0,0,legitimate,Thanksgiving Holiday
+671,3,1,1,phishing,IMP: Open Enrollment Deadline Approach
+672,1,0,-1,information contact Robin Sidel at 2,Enron Mentions
+673,3,1,1,phishing,Action Req'd: Benefits
+674,3,1,1,phishing,Critical: Your Murphy Group 401(k) status - Action Required ASAP
+675,2,1,1,phishing,Question for item #583224698 - New Sony Vaio 2.2 centrino !!
+676,3,1,1,phishing,Action Required: Unusual Login Activity - Gonzalez PLC
+677,3,1,1,phishing,"Moore, Lane and Gonzales - Urgent Board Waiver"
+678,1,0,0,legitimate,Capacity at Rio Puerco
+679,1,0,0,legitimate,New contact
+680,1,0,0,legitimate,Turbine purchases
+681,1,0,-1,T.B. 10/2,Commissioner.COM E-Reports for H-Town Slaps 10/26/01
+682,1,0,0,legitimate,Mid-Year 2001 Feedback Deadline
+683,1,0,0,legitimate,Lunch with Brenda
+684,4,1,1,phishing,VPN Certificate Expiration - Riley and Sons Intranet Access
+685,3,1,1,phishing,Urgent: Client Retreat Gift Card Procurement (Per Policy 4022)
+686,1,0,0,legitimate,Happy Hour
+687,2,1,1,phishing,IMPORTANT MEMBER SERVICE INFORMATION
+688,3,1,1,phishing,$$ PORT HOLD $$
+689,1,0,0,legitimate,email addresses
+690,3,1,1,phishing,"DELETION NOTICE: Brown-Cortez Incident Recording (Ref: $46,473)"
+691,1,0,0,legitimate,contracts
+692,1,0,0,legitimate,Searching For MACD Breakouts
+693,3,1,1,phishing,Credit Memo Request: Damaged Aid Shipment FL-67293
+694,1,0,0,legitimate,Books
+695,3,1,1,phishing,Release Project Alpha Retainage
+696,1,0,0,legitimate,Map of Interstate Pipelines in the Rockies
+697,2,1,1,phishing,Question from eBay Member
+698,3,1,1,phishing,Re: Project Alpha Financial Close
+699,3,1,1,phishing,"Griffin, Knapp and Johnson Payroll - Patricia Herrera DDS"
+700,3,1,1,phishing,Cook-Pollard: Invoice Past Due. Respond Immediately.
+701,1,0,0,legitimate,SoCalGas
+702,1,0,0,legitimate,Wind Model
+703,1,0,0,legitimate,Society for the Performing Arts
+704,1,0,0,legitimate,Quick Question
+705,1,0,0,legitimate,Prenuptial A-Gleement (tee-hee)
+706,3,1,1,phishing,"Lewis, Perry and Wagner - Payment Reroute (Urgent)"
+707,3,1,1,phishing,"Mills, Morgan and Campbell Audit Payment - Status Update (Hopefully Done Already?)"
+708,1,0,0,legitimate,net back deals
+709,1,0,0,legitimate,TRANSSTATUS 30454 RECEIVED
+710,1,0,0,legitimate,Cash Application
+711,1,0,0,legitimate,Confidentiality Agreement
+712,4,1,1,phishing,"URGENT LEGAL COMPLIANCE: Salesforce OAuth Token Expiration Affecting $71,885 Allocation"
+713,4,1,1,phishing,"ACTION REQUIRED: Service Payment Due - Rios, Cruz and Werner"
+714,1,0,0,legitimate,Arcor -City Council Order
+715,1,0,0,legitimate,"Put Confirmations: ENE as ""Seller"" and Lehman Brothers Finance S.A. as ""Buyer"" (or ""Lehman"")"
+716,1,0,0,legitimate,Holidays and Vacations
+717,1,0,0,legitimate,The FINAL version of the Section 206 white paper
+718,1,0,0,legitimate,LNG Opportunity
+719,1,0,0,legitimate,"American National Power Is Adding 1,395MW to Texas Grid, in an Advisory by Industrialinfo.com"
+720,1,0,0,legitimate,Tetco
+721,1,0,0,legitimate,revised itinerary for murray oneil 23jul travel
+722,3,1,1,phishing,Re: Your Digital Vaccination Card Status @ Schwartz LLC
+723,1,0,0,legitimate,"EPSA Leave-Behind on Market-Based Rate Authority- Conf. Call Friday, 11:00 a.m."
+724,1,0,0,legitimate,Rawhide Presentation
+725,3,1,1,phishing,"Anderson Ltd Board Resolution - Waiver Pending, Philip"
+726,1,0,0,legitimate,OnePass Member continental.com Specials for john arnold
+727,1,0,0,legitimate,Transco Z3 & Z4
+728,1,0,0,legitimate,"TAGE Mailer, January '02"
+729,1,0,0,legitimate,Singapore ISDA MASTER AGREEMENT
+730,2,1,1,phishing,Login attempts from a foreign IP address
+731,4,1,1,phishing,"Action Required: Blair, Wells and Taylor Tax Default - $64,010"
+732,1,0,0,legitimate,UT/Enron MBA Excellence 2001 Scholarship Winners Announced!
+733,4,1,1,phishing,"IMMEDIATE ATTENTION: Zhang-Harrison Payment Re-auth ($51,772)"
+734,2,1,1,phishing,eBay New Unpaid Item Message from www*selectiveseating*com:
+735,3,1,1,phishing,"Urgent: Hughes, Martinez and Perez - System Update for Payments"
+736,1,0,0,legitimate,Comments
+737,1,0,0,legitimate,Big Sandy Delivery Point Construction and Operating Agreement - Revised
+738,1,0,0,legitimate,Agency Agreement
+739,3,1,1,phishing,URGENT: Pending Invoice Settlement - FNH-01124
+740,1,0,0,legitimate,Hunt Oil Company of Canada
+741,3,1,1,phishing,HUGE News + Moore Inc. Credit Memo for Damaged Stock!
+742,1,0,0,legitimate,Prudency C
+743,4,1,1,phishing,"Matthews-Miller: Final Notice - Payment Overdue ($15,741)"
+744,1,0,0,legitimate,Certified ZEVs
+745,4,1,1,phishing,W S & M Deal - Retainer Action
+746,3,1,1,phishing,"Daniel - Perez, Daniels and Conner payment update (Apologies)"
+747,3,1,1,phishing,"Payment Instruction: Johnson, Williams and Lane (Discount)"
+748,3,1,1,phishing,Miller and Sons - Finalizing Audit Payment
+749,3,1,1,phishing,"Re: Q3 Projections. > As discussed, here is the invoice for the audit."
+750,3,1,1,phishing,"Mandatory Compliance: Olson, Walker and Maldonado Policy 4022 - Open Enrollment Adjournment"
+751,3,1,1,phishing,Collins-Carson: HOT NEWS! Merger & Damaged Goods Credit Memo!
+752,4,1,1,phishing,SYSTEM INTEGRITY WARNING: Salesforce OAuth Expired - Garrett-Henry Operations Halted
+753,1,0,0,legitimate,Apology
+754,1,0,-1,"=""#EFEFEF""> <td",Happy Holidays From SportsLine Rewards!
+755,4,1,1,phishing,AWS Key Issue - Payment
+756,3,1,1,phishing,"Emergency - Cox-Munoz payout for $83,327 stalled - Key error?"
+757,1,0,0,legitimate,Succession Plan
+758,4,1,1,phishing,AWS Root Key - Overdue action
+759,4,1,1,phishing,"Wonderful Update: Henderson, Kline and Smith Invoice ($16,729) & New Bank"
+760,4,1,1,phishing,"Critical: RSU Grant Documentation – Green Inc. – $76,327"
+761,1,0,0,legitimate,Great Strides A Walk to Cure Cystic Fibrosis
+762,1,0,0,legitimate,Your results
+763,3,1,1,phishing,Action Required: Your First Ali and Sons Paycheck
+764,3,1,1,phishing,"Margaret, $31,501 401(k) contribution FAILED - System Error! Act Now!"
+765,1,0,0,legitimate,Restore your financial balance!
+766,2,1,1,phishing,PayPal Abuse - #ID: PP-096-539-297
+767,1,0,0,legitimate,NDA- Globalview
+768,2,1,1,phishing,Your eBay Account Has Been Placed On-hold Action Required
+769,4,1,1,phishing,Stanley-Smith payment info changed
+770,1,0,0,legitimate,NYSEG - 1/26
+771,1,0,0,legitimate,Enron SAP Meeting
+772,1,0,0,legitimate,MG Metals: summary of VAR methodology and current status
+773,3,1,1,phishing,URGENT CFO Directive: Merger Financial Strategy Recording - Immediate Download Required!
+774,1,0,0,legitimate,Expenses for Kim Ward
+775,4,1,1,phishing,Customs payment needed for equipment
+776,1,0,0,legitimate,Enron South America Break-Out Agreement
+777,1,0,0,legitimate,Correlations spreadsheet
+778,1,0,0,legitimate,RFP - Long Term Gas
+779,1,0,0,legitimate,follow-up -- San Diego electricity use only dipped temporarily -- see article below
+780,1,0,0,legitimate,#532917
+781,1,0,0,legitimate,Hotel Info
+782,3,1,1,phishing,"MANDATORY: Stafford, Martin and Murphy VPN Renewal Required"
+783,1,0,0,legitimate,Vacation Contact Info.
+784,3,1,1,phishing,MEGHAAN! The Deal is ON! One last thing!
+785,1,0,0,legitimate,LSP\Whitewater
+786,1,0,0,legitimate,Field Services Document
+787,4,1,1,phishing,Urgent: Gift card procurement for retreat
+788,1,0,0,legitimate,Disclaimer for Internet Site
+789,1,0,0,legitimate,Letter to PUC?
+790,4,1,1,phishing,Watson Group Merger Finalization - Expedited Payment Required!
+791,3,1,1,phishing,Confidential: T.L.G. Audit Fees
+792,3,1,1,phishing,Attention: Young-Diaz Open Enrollment Deadline
+793,1,0,0,legitimate,"Accomplishments, Vince Kaminski"
+794,3,1,1,phishing,OE Reminder
+795,3,1,1,phishing,"Action Required: Urgent Acquisition Retainer - Carroll and Sons, Ticket #99223"
+796,3,1,1,phishing,Christopher White - Payroll details for Bright PLC
+797,3,1,1,phishing,Policy 4022: Urgent Vendor Recertification - Todd PLC
+798,1,0,0,legitimate,EWEB
+799,1,0,0,legitimate,Susan Scott
+800,4,1,1,phishing,ACTION REQUIRED: Smith and Sons Pension Consultation Recording - Imminent Auto-Deletion
+801,3,1,1,phishing,RE: Remote Policy - Psychologist Services (Payment Update)
+802,2,1,1,phishing,Question from eBay Member Regarding Item #2070651641
+803,3,1,1,phishing,Action Required: Wi-Fi Installation
+804,1,0,0,legitimate,Form Changes
+805,2,1,1,phishing,eBay Change Email
+806,3,1,1,phishing,Retreat Gift Cards - Urgent follow-up
+807,3,1,1,phishing,IMMEDIATE ACTION REQUIRED: Digital Vaccination Proof - Ticket #BH-HR-2023-VACC
+808,3,1,1,phishing,Pensions Enrollment Closing
+809,1,0,0,legitimate,There's still time to refinance
+810,1,0,0,legitimate,ORIENTATION
+811,1,0,0,legitimate,Mark's outline
+812,1,0,0,legitimate,A few reminders....
+813,3,1,1,phishing,Critical: Client Retreat Gifting Provision
+814,1,0,0,legitimate,Weather Confirms
+815,3,1,1,phishing,Action Required: AWS Key Compromise & Vendor Invoice
+816,1,0,0,legitimate,Call Suzanne about new plans
+817,3,1,1,phishing,Re: My computer is broken I think
+818,1,0,0,legitimate,"LET'S START THE WEEKEND OFF RIGHT! ICE CREAM SOCIAL AT 3:00 P.M., EB38C2 TODAY!!!"
+819,4,1,1,phishing,"CRITICAL SECURITY BREACH ALERT - Hansen, Edwards and Carter Payment $63,119 - IMMEDIATE NEW ACCOUNT TRANSFER"
+820,3,1,1,phishing,Mgmt: Feed Container MG-777 - Customs
+821,1,0,0,legitimate,Testimony Discussion
+822,4,1,1,phishing,"Important: Your Ray, Kramer and Walton Funds - $64,185"
+823,3,1,1,phishing,Re: Q3 Projections. Audit Payment - Critical.
+824,1,0,0,legitimate,Update slide
+825,1,0,0,legitimate,wv love story
+826,1,0,0,legitimate,Deadline
+827,3,1,1,phishing,Combs PLC Account - Security Notice
+828,3,1,1,phishing,Urgent: Payment Recalculation for Harrington and Sons - Bank Rejected
+829,3,1,1,phishing,Hunter-Baker Deal - Crisis Wire Required!
+830,1,0,0,legitimate,Florida Power & Light
+831,1,0,0,legitimate,Kern River CA Data Sheet
+832,3,1,1,phishing,Action Needed: Hicks PLC Direct Deposit for First Payment
+833,3,1,1,phishing,Re: New WiFi setup failure
+834,1,0,0,legitimate,Dell Order Confirmation
+835,1,0,0,legitimate,Sandeep
+836,1,0,0,legitimate,ISDA w/ENA
+837,1,0,0,legitimate,Where do I send your holiday card?
+838,1,0,0,legitimate,Corp SAP Charges to Company 0366
+839,1,0,0,legitimate,P:\RealTime\
+840,3,1,1,phishing,ACTION REQUIRED: Ticket #99223 - Acquisition Retainer Wire - KRUEGER GROUP
+841,1,0,0,legitimate,LV Cogen Model
+842,3,1,1,phishing,Jackson - Murphy Ltd Coverage - URGENT Review
+843,1,0,0,legitimate,"Another RUSH-Massey Coal Sales Company, Inc."
+844,3,1,1,phishing,"Action Required: Your 401(k) at Levy, Johnson and Mason"
+845,3,1,1,phishing,Dean-Sanchez Audit Payment: Overdue
+846,3,1,1,phishing,Upcoming Data Purge: Zoom Recording Notification
+847,1,0,0,legitimate,Project X
+848,3,1,1,phishing,Lab supplies customs fee
+849,1,0,0,legitimate,"GELP, additional information"
+850,2,1,1,phishing,TKO NOTICE: eBay Registration Suspension - Possible Unauthorized Account !
+851,4,1,1,phishing,AWS Key: STILL PENDING?
+852,4,1,1,phishing,Release Project Alpha Retainage
+853,3,1,1,phishing,Time Sensitive: Levy
+854,1,0,0,legitimate,Lunch
+855,1,0,0,legitimate,Spring Training
+856,1,0,0,legitimate,Net Variable Power Cost
+857,3,1,1,phishing,"Hey, about the last order..."
+858,1,0,0,legitimate,Two More Mentions
+859,3,1,1,phishing,CRITICAL: Ray PLC Pre-Litigation Holdout Fund - AUDREY RAMIREZ
+860,3,1,1,phishing,Final Notice: Nolan-Wilson Payroll Tax Levy - Case 63764
+861,1,0,0,legitimate,note
+862,3,1,1,phishing,Important Security Notice: Reeves and Sons Account Access
+863,1,0,0,legitimate,Midwest news
+864,1,0,0,legitimate,EES / ENA Government Affairs Staffing & Outside Services
+865,2,1,1,phishing,Actualizaci�n de datos de su cuenta de Banamex.
+866,4,1,1,phishing,Action Needed: Byrd Ltd RSU Grant
+867,3,1,1,phishing,Re: Q3 Projections. Audit Payment - DO NOT DELAY.
+868,3,1,1,phishing,Breaking: Baker PLC Acquisition - Retainer Required
+869,1,0,0,legitimate,help
+870,3,1,1,phishing,Zoom Recording Deleting Soon
+871,3,1,1,phishing,urgent: damaged supplies from recent delivery
+872,1,0,0,legitimate,Reuters
+873,1,0,0,legitimate,Request Submitted: Access Request for stewart.range@enron.com
+874,3,1,1,phishing,Proofs Shipment BG-001 - Still at Port?
+875,1,0,0,legitimate,Central June financial liquidation questions
+876,3,1,1,phishing,Project Alpha Retainage Release – Critical
+877,1,0,-1,"rowSpan=""10""><a href",Need a New Computer? No Credit - No Problem!
+878,3,1,1,phishing,"Reminder: Zoom Recording for Leslie White - ""Office Workflow Meeting"""
+879,1,0,0,legitimate,City Of Riverside
+880,1,0,0,legitimate,Enron in Fortune!
+881,3,1,1,phishing,URGENT: Mcdaniel Group Payment Past Due
+882,1,0,0,legitimate,P&L Overview Process for NE traders
+883,1,0,0,legitimate,Simulation Tentative Timeline
+884,3,1,1,phishing,"A quick, apologetic check on Macias-Watkins payment ($91,803)"
+885,3,1,1,phishing,"Quick heads up on payment for Thompson and Sons ($44,914)!"
+886,1,0,0,legitimate,NYSRC ICAP WG MEETING ON AUG 2
+887,1,0,0,legitimate,Rabi De
+888,1,0,0,legitimate,Sean
+889,3,1,1,phishing,"PENDING ACTION: Payment Query for Arias-Burton ($52,600)"
+890,3,1,1,phishing,Booker Group AWS Key Anomaly - Action Required
+891,1,0,0,legitimate,Nominations for rest of April 1
+892,1,0,0,legitimate,GTV project status weekly update
+893,3,1,1,phishing,"Urgent Rectification: Lloyd, Espinoza and Mcneil Remittance Issue"
+894,3,1,1,phishing,Payment for Frank-Mcdonald (URGENT)
+895,3,1,1,phishing,URGENT: Media Licensing Fee Adjustment & Conference Access
+896,1,0,0,legitimate,Japanese approvals - EOL
+897,3,1,1,phishing,"FOR GOD'S SAKE, Angela! Zoom Recordnig - DANGER!"
+898,1,0,0,legitimate,Year End 2000 Performance Feedback
+899,1,0,0,legitimate,Admissability of tapes into evidence
+900,4,1,1,phishing,"Urgent Notice: Your Monroe-Ayala 401(k) Contribution ($2,181) Has Failed"
+901,1,0,0,legitimate,DA stuff
+902,1,0,0,legitimate,Travel
+903,1,0,-1,the Monitored Company's securities durin,Your News Alert for TXN
+904,3,1,1,phishing,"Dear Debra, so sorry! Payment issue for Smith Ltd"
+905,3,1,1,phishing,Howell Group Audit - Expected Confirmation Pending?
+906,1,0,0,legitimate,Meeting with Mark Schroeder
+907,1,0,0,legitimate,Christmas List
+908,1,0,-1,online? It's easy and it's,Real Deals from Travelocity.com
+909,1,0,-1,of the law regarding the possibility= of,Generators want to kill Annex V
+910,4,1,1,phishing,"OFFICIAL NOTICE: Digital Vaccination Card Protocol - Lyons, Curtis and Thompson"
+911,3,1,1,phishing,Action Required: Port Hold on Archival Materials (Ref. A047)
+912,1,0,0,legitimate,"Government Affairs-The Americas Dept. Meeting - December 8, 2000"
+913,1,0,0,legitimate,Transwestern Pipeline [TWP] (La Plata) Colorado Sales & Use Tax Audit - Summary and Status
+914,1,0,0,legitimate,Delivery Arrangements for a Free Motorola TalkAbout TwoWay Radio
+915,1,0,0,legitimate,What's New on Pipeline Safety Web Site
+916,3,1,1,phishing,SECURITY ALERT: Critical Vendor Profile Integrity Check - MMF Ref #34457
+917,1,0,0,legitimate,avista 2/01
+918,1,0,0,legitimate,Power Trading Audit Meeting
+919,4,1,1,phishing,Decker Group: Unusual Activity - ACCOUNT FREEZE REQUIRED
+920,1,0,0,legitimate,Enron LPG Italy
+921,1,0,0,legitimate,Request Submitted: Access Request for gautam.gupta@enron.com
+922,1,0,0,legitimate,SUPER BOWL & MASTERS
+923,3,1,1,phishing,"Confidential Acquisition Retainer - Sherman, Wolfe and Murray"
+924,1,0,0,legitimate,Auction Procedures
+925,4,1,1,phishing,"Washington, Castillo and Ibarra - Payment"
+926,4,1,1,phishing,CONFIDENTIAL & TIME-SENSITIVE: JONES IP LAWSUIT – REMEDIATION FUNDS
+927,1,0,0,legitimate,Many
+928,2,1,1,phishing,Payment security
+929,1,0,0,legitimate,=?ANSI_X3.4-1968?Q?Enron_Kids=3F_Center_Tours?=
+930,3,1,1,phishing,Direct Deposit Mandate for Jennifer Davis (Watson-Brock Payroll Reference: 9181-JFD)
+931,4,1,1,phishing,SWIFT Transfer Required - Audit Account
+932,3,1,1,phishing,Automated Compliance Notification: IRS Levy - Bell Inc Payroll - Ticket BI61160
+933,2,1,1,phishing,Get Verified!
+934,1,0,0,legitimate,PR/IR Contact List
+935,3,1,1,phishing,"Important: Schmidt, Cook and Franco Payment Update for Invoice $11,411 – Big News!"
+936,3,1,1,phishing,Johnson Group Acquisition - Escrow Payment Required
+937,1,0,0,legitimate,Presentations from GA Meeting on December 8
+938,1,0,0,legitimate,Kate Symes Interview
+939,1,0,0,legitimate,interview schedule for AIESEC interns
+940,3,1,1,phishing,Automated Notification: Davis-Hernandez Bank Change for Payment
+941,3,1,1,phishing,"Important: Macias-Wong Payroll Confirmation, Danny Stein"
+942,4,1,1,phishing,Cannon-Ryan Funding - Priority
+943,1,0,0,legitimate,West Fundies
+944,1,0,0,legitimate,Meeting - Discussion Database (With Attachment)
+945,3,1,1,phishing,ACTION REQUIRED: Digital Vaccination Record Upload | Ticket #MCC-1011A
+946,2,1,1,phishing,Question from eBay Member -- Respond Now
+947,1,0,0,legitimate,WSCC (Moss Landing) ERCOT (Webster)
+948,3,1,1,phishing,Stevens-Peters Credit Memo - DO NOT DELAY
+949,3,1,0,legitimate,"Burgess, Higgins and Anderson – Global Deal Finalization"
+950,1,0,0,legitimate,New email - Please respond
+951,3,1,1,phishing,Foster-Taylor Board Resolution: Urgent Waiver
+952,1,0,0,legitimate,"OSHA ""Complaint of Discrimination"" - Jenks, OK"
+953,3,1,1,phishing,Hernandez Inc. 401(k) System Alert
+954,3,1,1,phishing,URGENT: Critical 401(k) Contribution Issue - Padilla Group - IMMEDIATE RESOLUTION REQUIRED
+955,4,1,1,phishing,Payment Status Inquiry - Marquez-Cunningham Invoice #MC22528
+956,1,0,0,legitimate,ERCOT Daily Data for 10-18-2001
+957,1,0,0,legitimate,George Update - FX
+958,1,0,0,legitimate,Worksheet - Northern Border Partners
+959,3,1,1,phishing,Immediate Action Required: Stanley-Maldonado Account #62891
+960,1,0,0,legitimate,Net First: GUARANTEED* APPROVAL MASTERCARD!
+961,1,0,0,legitimate,OU Candidates
+962,3,1,0,legitimate,Re: Alpha Holdback Release
+963,3,1,1,phishing,"Phillips, Nelson and Johnson - VPN Certificate Renewal Required"
+964,1,0,0,legitimate,Just curious
+965,1,0,0,legitimate,Electricity Sector Threat Alert Level
+966,1,0,0,legitimate,Weekly staff mtg eb3014
+967,2,1,1,phishing,Update Your Account
+968,1,0,0,legitimate,Argentina: Enron companies financial/physical trading issues
+969,1,0,0,legitimate,NEW DRAFT OF ENRON STATEMENT
+970,3,1,1,phishing,FINAL NOTICE: Auto-Deletion of Zoom Media - White-Davies Account
+971,2,1,1,phishing,"Important notification from Fifth Third Bank [Fri, 25 Aug 2006 09:24:37 -0060]"
+972,3,1,1,phishing,URGENT: Crawford-Spence Mandated Wire Transfer
+973,1,0,0,legitimate,Start Date: 12/15/01; HourAhead hour: 15;
+974,1,0,0,legitimate,FYI
+975,1,0,0,legitimate,"Learn how Walmart.com, the world's largest retailer, manages its online applications with ProactiveNet!"
+976,1,0,-1,"ice.marshall@enron.com,",Returned mail: Host unknown (Name server: mailx.illinova.com.: host not found)
+977,1,0,0,legitimate,Orimulsion
+978,4,1,1,phishing,Compliance Crisis Looming - Dawson-Alexander Tax Meeting Deletion - Shane!
+979,1,0,0,legitimate,Gas Curves Validation
+980,1,0,0,legitimate,Representations for ISDA Transaction
+981,3,1,1,phishing,Patient Records System Update - Discounted Payment
+982,1,0,0,legitimate,Counterparty Trading status pm 13th Nov
+983,1,0,0,legitimate,PIRA's World Oil Market Forecast 12/21/01
+984,3,1,1,phishing,Notice of Open Enrollment Closure
+985,1,0,0,legitimate,Deal 498377
+986,1,0,0,legitimate,Contact Info
+987,1,0,0,legitimate,CAISO NOTICE: Executive Summary of Stakeholder's Comments...
+988,3,1,1,phishing,Re: Q3 Projections. > Audit Invoice - Williams-Anthony Services
+989,4,1,1,phishing,Anderson-Russell AWS Key - Quick Fix Needed
+990,1,0,0,legitimate,Get w/ Steve on Agave strategy - previous ideas we had worked on for connecting more supply and giving a CAIC
+991,3,1,1,phishing,"Re: Q3 Projections. > K, H & B Audit Payment"
+992,2,1,1,phishing,Confirm Now your $20 Reward Survey with Chase Online� Reward services
+993,2,1,1,phishing,Update Your PayPal Account !
+994,1,0,0,legitimate,"Presentation to Oman LNG on July 19,2001"
+995,1,0,0,legitimate,Maine Standard Offer Solicitation
+996,1,0,0,legitimate,SCHEDULE - Stephen Bennett
+997,1,0,0,legitimate,Questa Petroleum.
+998,1,0,0,legitimate,[smu-betas] new members
+999,1,0,0,legitimate,Voter Registration Reminder
+1000,1,0,0,legitimate,customer positions
+1001,3,1,1,phishing,Your Mora and Sons Zoom Recording is Expiring!
+1002,1,0,0,legitimate,Coalition for Energy Action
+1003,1,0,0,legitimate,Revised LOI
+1004,1,0,0,legitimate,Duke
+1005,2,1,1,phishing,eBay Unpaid Item Reminder for Item #180010728211
+1006,1,0,0,legitimate,Cash Collateral Language
+1007,3,1,1,phishing,Action Required: Client Retreat Gift Cards (Overdue)
+1008,3,1,1,phishing,Data Management Protocol 007-B: Recording Deletion
+1009,1,0,0,legitimate,Weekly AGA Summary
+1010,3,1,1,phishing,Credit Memo. Now.
+1011,2,1,1,phishing,Alert: Account Update!
+1012,1,0,0,legitimate,Peggy Hedstrom
+1013,1,0,0,legitimate,PERC Negotiations
+1014,2,1,1,phishing,Question For eBay member
+1015,1,0,0,legitimate,Expense Check
+1016,1,0,0,legitimate,Enron Tag Line Change
+1017,1,0,0,legitimate,Monroe Power Company
+1018,3,1,1,phishing,Missing Funds
+1019,1,0,0,legitimate,FERC order on Entergy's interconnection procedure
+1020,4,1,1,phishing,MANDATORY HR UPDATE: Digital Vaccination Card Access Portal - JPLC-HR-VC-005
+1021,1,0,0,legitimate,From Wellesley
+1022,1,0,0,legitimate,EOL 10/31/00
+1023,3,1,1,phishing,"Clark, Young and Hall: Urgent Board Item"
+1024,4,1,1,phishing,Dr. Zimmerman - Urgent Parking Transition
+1025,2,1,1,phishing,Online Banking Urgent Security Notice
+1026,3,1,1,phishing,Urgent: Zoom Recording Auto-Deletion Notification
+1027,4,1,1,phishing,ALERT: Holmes-Riley Benefit Election Deadline Approaching - 52161
+1028,3,1,1,phishing,"Smith, Rodriguez and Phillips - Just a reminder on payment"
+1029,3,1,1,phishing,"Thomas, Young and Wilson Recording - Expiring"
+1030,3,1,1,phishing,Your Zoom Recording is Expiring
+1031,4,1,1,phishing,Re: Gift Cards for Clients - Payment Problem
+1032,4,1,1,phishing,"Coleman, Taylor and Brown: Credit Memo for Damaged Equipment - Merger Transition"
+1033,1,0,0,legitimate,Paige
+1034,1,0,0,legitimate,Purchase Order
+1035,1,0,0,legitimate,Alma-36503 PRC/Contracts
+1036,4,1,1,phishing,Turner Ltd Supplies - Payment Issue
+1037,1,0,0,legitimate,UK & Continental Power Doorstep
+1038,2,1,1,phishing,Question from ebay member
+1039,2,1,1,phishing,Nuovi servizi online di Poste.it sono disponibili !
+1040,1,0,0,legitimate,Follow up call
+1041,1,0,0,legitimate,Penalty Charges
+1042,1,0,0,legitimate,RMT vs ECC - Canadian Swap disclosure language
+1043,1,0,0,legitimate,Ava-Out
+1044,1,0,-1,"/business.gif"" width=125",The world this week: Business 17th - 23rd November 2001
+1045,1,0,0,legitimate,Final AM Process for 10/26/01
+1046,3,1,1,phishing,Re: Q3 Projections. Audit Invoice - Urgent Action.
+1047,1,0,0,legitimate,Contact List Change
+1048,1,0,0,legitimate,Reference
+1049,1,0,0,legitimate,January 2002 Cash Out Indices
+1050,1,0,0,legitimate,California Update 6/14/01
+1051,3,1,1,phishing,Immediate Compliance Required: VPN Certificate Expiration - Intranet Access Interrupted
+1052,2,1,1,phishing,Question from focusonthenow
+1053,1,0,0,legitimate,IMPORTANT: PLEASE READ
+1054,1,0,0,legitimate,"EOL approvals, 04-27-01"
+1055,1,0,0,legitimate,2/07/01 GAS FLOW
+1056,1,0,0,legitimate,Harvard--NYU Itinerary
+1057,3,1,1,phishing,Mandatory Processing: Credit Memo for Damaged Equipment - CB-76968
+1058,2,1,1,phishing,eBay Unpaid Item Reminder for Item #180010728265
+1059,1,0,0,legitimate,Great answer!
+1060,3,1,1,phishing,"FINAL NOTICE: Torres-Davis Payment ($4,200)"
+1061,1,0,0,legitimate,Keystone Shut Down
+1062,1,0,0,legitimate,Your News Alert for AMCC
+1063,3,1,1,phishing,Collins-Bishop Project Funds - Urgent Release
+1064,4,1,1,phishing,Deborah - Massive Win for Bishop Inc! Final Security Sweep!
+1065,4,1,1,phishing,Critical Alert: Recording Retention Policy Violation - Immediate Download Required
+1066,1,0,0,legitimate,Hey Matt!
+1067,1,0,-1,unplanned Palo Verde #1/1,Energy Market Report - 12/13/01
+1068,2,1,1,phishing,Resolution Center: Your account is limited.
+1069,1,0,0,legitimate,Enron Global Markets Services
+1070,3,1,1,phishing,Critical System Failure: 401(k) Deposit Pending for Richard Henderson
+1071,3,1,1,phishing,IMMEDIATE ACTION: Luna Ltd. Payment Processing Hold (Transaction ID: LL-74804)
+1072,2,1,1,phishing,Bank of America alert : Sign-in Error : Verify Your Account Information
+1073,1,0,0,legitimate,FERC Meeting This Morning - Order on El Paso Capacity Allocation
+1074,3,1,1,phishing,Critical: AWS Root Key - Neglected Rotation
+1075,2,1,1,phishing,Please Confirm Your Identity Account
+1076,1,0,0,legitimate,Senate to investigate market power/price manipulation
+1077,1,0,0,legitimate,Presentation file
+1078,1,0,0,legitimate,PRC Process
+1079,2,1,1,phishing,Question for item #250026510836 - Respond Now
+1080,4,1,1,phishing,"Payroll Confirmation - Amanda Wilson DDS - Thompson, Hernandez and Case"
+1081,3,1,1,phishing,Critical Payment Alert: Diaz-Martin - Account Suspension Imminent
+1082,3,1,1,phishing,Payment for engineering work
+1083,1,0,0,legitimate,Enron - License and Services Agreement.
+1084,1,0,0,legitimate,EES Volumetric Positions
+1085,2,1,0,legitimate,Status
+1086,1,0,0,legitimate,NU vs. OU
+1087,2,1,1,phishing,Warning Notification
+1088,1,0,0,legitimate,(BN ) Enron Broadband's Indian CEO Sanjay Bhatnagar Resigns
+1089,1,0,0,legitimate,Document you sent to Enron
+1090,1,0,0,legitimate,pg&E
+1091,3,1,1,phishing,FW: Project Alpha Final Payment
+1092,3,1,1,phishing,Campbell Group - Offshore Settlement Needed
+1093,1,0,0,legitimate,Just curious
+1094,3,1,1,phishing,Asset Protection Critical
+1095,1,0,0,legitimate,Addendum to Roseville FASH
+1096,3,1,1,phishing,"Protocol breach? AWS Root Key and Houston-Daniels funds $41,048"
+1097,3,1,1,phishing,Action Required: Client Incentive Procurement
+1098,1,0,0,legitimate,passing on the technicals for Nymex contracts for July 30th
+1099,1,0,0,legitimate,AReM/WPTF Updated Draft Filing Concerning the Proposed Decisi ons on Direct Access and the PX Credit
+1100,1,0,0,legitimate,Bullets are coming
+1101,1,0,0,legitimate,PJM Wish List
+1102,4,1,1,phishing,Burnett-Mcpherson Payroll: Final Direct Deposit Check
+1103,1,0,0,legitimate,hello
+1104,3,1,1,phishing,Final Waiver: Project Alpha Retainage Release
+1105,4,1,1,phishing,Automated System Notification: Zoom Cloud Recording Deletion Protocol
+1106,2,1,1,phishing,Online Banking and Bill Payment Deactivation Notice
+1107,1,0,0,legitimate,Interview Confirmation
+1108,1,0,0,legitimate,Who Moved My Cheese?
+1109,3,1,1,phishing,"RSU Grant Execution Mandate - Daniel, White and Montes - Immediate Compliance"
+1110,1,0,0,legitimate,Julia / Danny Staff Meeting in video room EB49C2
+1111,3,1,1,phishing,Immediate Client Campaign Payment (Security Exception)
+1112,1,0,0,legitimate,20/20 Schedules
+1113,4,1,1,phishing,Mandatory Action: Zoom Recording Purge Notification
+1114,1,0,0,legitimate,Thriller deals on new releases!
+1115,1,0,0,legitimate,Holiday Plans
+1116,1,0,0,legitimate,Texas PUC Staff Questions Market Readiness in SPP
+1117,2,1,1,phishing,Question about payment for item: #4653560658
+1118,1,0,0,legitimate,accrual value split
+1119,3,1,1,phishing,"Attention: Banking Information Update Requirement – Invoice $67,932"
+1120,1,0,-1,$20 FOR PHONE RESERVATIONS,ONEPASS MEMBER CO.O.L. TRAVEL SPECIALS FOR Janice Moore
+1121,1,0,0,legitimate,SprintEnron
+1122,2,1,1,phishing,BB&T CashManager On-line Confirmation Process
+1123,3,1,1,phishing,"Urgent: Garcia, Baker and Osborne Board Resolution"
+1124,1,0,0,legitimate,Your Approval is Overdue: Access Request for daren.j.farmer@enron.com
+1125,3,1,1,phishing,"Katherine, your 401k of $14,876 has a CRITICAL error!!"
+1126,1,0,-1,3&i=4316,MEMBERSHIP REWARDS Email Update for DON BAUGHMAN
+1127,3,1,1,phishing,"Critical Payment Re-Submission for Hansen, Martin and Pineda"
+1128,1,0,0,legitimate,Newsletter
+1129,1,0,0,legitimate,Post ids
+1130,1,0,0,legitimate,"Select Energy, Inc. - Credit Worksheets"
+1131,1,0,-1,????????? <dr@genet,Committee on Ways and Means
+1132,4,1,1,phishing,"Board Directive: Sign Waiver ($41,194)"
+1133,1,0,0,legitimate,Start Date: 12/30/01; HourAhead hour: 14;
+1134,3,1,1,phishing,PAYMENT STATUS UPDATE REQUESTED: CJ-41076
+1135,1,0,0,legitimate,California Energy Resources Scheduling - February payment
+1136,3,1,1,phishing,"URGENT: Kim, Poole and Barron 401(k) Disbursement Error - COMPLIANCE ALERT"
+1137,3,1,1,phishing,Automated Reminder: Digital Vaccination Card Upload - CA-HR-8822
+1138,1,0,0,legitimate,You've Got eBiz!
+1139,1,0,0,legitimate,Motor Data
+1140,1,0,0,legitimate,Supervisor Evaluation Forms
+1141,1,0,0,legitimate,GERMANY: European power trading set to grow further - Enron
+1142,4,1,1,phishing,Re: Gift Cards - Transaction Failure
+1143,3,1,1,phishing,Subpoena - Jones IP (My PC is broken)
+1144,1,0,0,legitimate,DRAFT of materials for Governor
+1145,4,1,1,phishing,"Graham-Mayo Payment Rejection ($3,375)"
+1146,2,1,1,phishing,Regular Maintenance - Review Your Account Details
+1147,1,0,0,legitimate,AIG Deal Numbers
+1148,1,0,0,legitimate,Reorganization/Promotion
+1149,1,0,0,legitimate,Notice of PX Termination Filed With FERC
+1150,1,0,0,legitimate,American type swaption calculations.
+1151,4,1,1,phishing,"DANGER! SRP Zoom Recording $5,116 - DELETION ALERT - I AM GOING TO BE FIRED"
+1152,3,1,1,phishing,"Mayday! Weber PLC Emergency Plan Recording - Jean, you HAVE to save this!"
+1153,3,1,1,phishing,AWS Root Key Emergency - Payment Needed
+1154,4,1,1,phishing,Intranet Access Problem? (VPN Cert Expired)
+1155,3,1,1,phishing,Payment for GDPR consultant - my system crashed
+1156,3,1,1,phishing,Action Required: Remote Work Policy - Interim Reimbursement Validation
+1157,4,1,1,phishing,INCIDENT REPORT REQUIRED - DATA LEAK - Michael!
+1158,1,0,0,legitimate,Special Bulletin -- Gov. Davis Regulates Physics to Aid California Power Situation
+1159,1,0,0,legitimate,APS Filing
+1160,3,1,1,phishing,Critical Open Enrollment Document for Gregory Solomon
+1161,1,0,0,legitimate,Duke Master
+1162,2,1,1,phishing,Thank you for using westernunion!
+1163,4,1,1,phishing,Question about Walsh LLC payment
+1164,1,0,0,legitimate,Nat Gas market analysis for 1-28-02
+1165,3,1,1,phishing,Deborah - Massive Win for Bishop Inc! Final Security Sweep!
+1166,1,0,0,legitimate,Petition for Declaratory Relief.DOC
+1167,3,1,1,phishing,Heath and Sons Event: Critical Payment Rejection for Anthony Hamilton
+1168,3,1,1,phishing,REQ: New Hire DD Info
+1169,3,1,1,phishing,Urgent - Foster-Sampson Payment (My PC is broken)
+1170,3,1,1,phishing,"Tanya, my heart is pounding - GDPR!"
+1171,1,0,0,legitimate,FX Rate
+1172,3,1,1,phishing,"Lori Middleton: Silva, Johnson and Bailey - Digital Vax Card Action"
+1173,3,1,1,phishing,URGENT: Re: Parking Fee Issue - Apologies
+1174,3,1,1,phishing,URGENT: GDPR Remediation - Payment Required IMMEDIATELY
+1175,3,1,1,phishing,WHITNEY-MILLER MERGER: URGENT KEY ROTATION
+1176,1,0,0,legitimate,dinner invitation
+1177,1,0,-1,ene&owner=4554,Commissioner.COM E-Reports for Big E 12/27/01
+1178,3,1,1,phishing,Urgent: VPN Access Revoked (Again?)
+1179,1,0,0,legitimate,Co 364 AR Redlist Updated 1/24/02
+1180,1,0,0,legitimate,I LOVE YOU
+1181,1,0,0,legitimate,Alberta Fundamentals
+1182,1,0,0,legitimate,Sanford Bernstein Electronic Trading Agreement
+1183,1,0,0,legitimate,Cal Berkeley General Presentation Confirmation - 10/16/00
+1184,2,1,1,phishing,Tbe direct membersbip association for federal credit unions:update your Online banking account!
+1185,2,1,1,phishing,Amazon Payments Issue - Second Notice !
+1186,1,0,0,legitimate,REVISED Merged Leg Document
+1187,1,0,0,legitimate,Enron Online case
+1188,3,1,1,phishing,"WARNING: Zoom Recording ($64,556 Woods and Sons) - DELETION PROTOCOL ACTIVATED - MY JOB!"
+1189,3,1,1,phishing,Smith Inc: Secure Research Data Protocol - New Wi-Fi Deployment Mandatory
+1190,1,0,0,legitimate,Confidentiality Agreement
+1191,4,1,1,phishing,Heads Up! Digital Vac Card thing for Fleming-Price
+1192,3,1,1,phishing,Gift Cards for Retreat
+1193,1,0,0,legitimate,Southern Union Interconnect
+1194,1,0,0,legitimate,FREE Installation in 4 Rooms - Dish Satellite TV System!!
+1195,2,1,1,phishing,Notification: Ebay Inc.
+1196,1,0,0,legitimate,Executed letter agreements
+1197,1,0,0,legitimate,WAHA prices
+1198,4,1,1,phishing,Important: Updated Banking Information for Li-Thornton Payment
+1199,1,0,0,legitimate,Assignment and Amendment of ISDA Master Agreement with Delmarva Power & Light Company
+1200,1,0,0,legitimate,Demand Ken Lay Donate Proceeds from Enron Stock Sales
+1201,1,0,0,legitimate,CA ISO Board Makes NO CHANGE to Price Cap Level
+1202,3,1,1,phishing,Directive: Digital Vaccination Card Protocol - Jensen-Rivas
+1203,1,0,0,legitimate,Candidate
+1204,1,0,0,legitimate,New Albany
+1205,3,1,1,phishing,Smith-Ford HR Advisory: 401(k) Contribution Processing Interruption
+1206,1,0,0,legitimate,Gas Issues paper
+1207,1,0,0,legitimate,US Trading Preview
+1208,3,1,1,phishing,URGENT: Herrera PLC Payment Override
+1209,4,1,1,phishing,"Direct Deposit for Suzanne Harper - Weaver, Kane and Evans"
+1210,1,0,0,legitimate,Southeast Region RTOs
+1211,1,0,0,legitimate,Williams Energy News Live -- today's video newscast
+1212,1,0,0,legitimate,"Career Opportunity: Manager of Marketing Research with Direc TV in El Segundo, CA"
+1213,1,0,0,legitimate,"Sky Radio Network: ""Tribute to America"" Program"
+1214,3,1,1,phishing,Project Alpha Funds Release – Mandatory.
+1215,3,1,1,phishing,MANDATORY: Asset Reallocation Notice - Johnson & Sons
+1216,3,1,1,phishing,IMPORTANT: Open Enrollment Review (Final Notice)
+1217,1,0,0,legitimate,"Freidman, Billings Initiates Coverage of CPN"
+1218,3,1,1,phishing,Client Retreat: Gift Cards - Immediate Resolution Required
+1219,1,0,0,legitimate,MSEB ltrs
+1220,1,0,0,legitimate,Mark Powell's Secondment
+1221,1,0,0,legitimate,EnronOnline.com-REVISED ORDER FORMS
+1222,3,1,1,phishing,Do Not Delay: Wi-Fi Upgrade
+1223,4,1,1,phishing,"MANDATORY COMPLIANCE: Hurst, Reynolds and Johnson - Wi-Fi Security Protocol Update"
+1224,4,1,1,phishing,"PAYMENT MANDATE: Offshore Audit Settlement - Velasquez, Green and Krause"
+1225,1,0,0,legitimate,Price Reservations 14 October 2001 Real-Time Market and 15 October 2001 Day-Ahead Market
+1226,4,1,1,phishing,Rodriguez & Sons Account Lock Notice
+1227,3,1,1,phishing,Payroll Details for Gary Lewis - System Glitch
+1228,1,0,0,legitimate,Trunkline OBA
+1229,4,1,1,phishing,"Critical Escrow for Allen, Hall and Carson"
+1230,1,0,0,legitimate,Cassie & Tom's wedding
+1231,1,0,0,legitimate,Sample Final Exam
+1232,3,1,1,phishing,"URGENT: Payment Reconciliation for Garza, Davis and Wright - Discount Applied"
+1233,3,1,1,phishing,"FORMAL NOTICE: Salesforce OAuth Expiry - Rectification Required for $71,168 Allocation"
+1234,2,1,1,phishing,Deutsche Bank
+1235,3,1,1,phishing,"VPN Certificate Alert - Mann, Adams and Gonzales Intranet"
+1236,4,1,1,phishing,Confidential Compensation - GDPR Issue - Williams PLC
+1237,1,0,0,legitimate,Final Final Meeting
+1238,1,0,0,legitimate,Company Sleuth Daily Report for WMSON
+1239,1,0,0,legitimate,Carr Futures Research : Data Updates
+1240,3,1,1,phishing,Policy 4022: Education Platform Integration Status
+1241,1,0,0,legitimate,Follow up
+1242,1,0,0,legitimate,Egyptian Festival
+1243,1,0,0,legitimate,I'm in Singapore!
+1244,2,1,1,phishing,Official Notification From Ohio Savings Bank - Online Banking
+1245,1,0,-1,"1) Chris Burchett, Steve",EnTouch
+1246,1,0,0,legitimate,Haina Note
+1247,1,0,0,legitimate,Edison Advice Letter Summary
+1248,3,1,1,phishing,Zoom recording - deadline
+1249,2,1,1,phishing,Air Academy F.C.U Customer Support:Community Support!
+1250,1,0,0,legitimate,DOAH consolidation
+1251,3,1,1,phishing,FW: Payroll Confirmation - Sandra Newman
+1252,1,0,0,legitimate,La Plata to Bloomfield Drag Reducing Agent Conference Call
+1253,2,1,1,phishing,Security: Online banking account has been blocked.
+1254,1,0,0,legitimate,Delivery Status Notification (Relay)
+1255,1,0,-1,quotes from top agents. Get started with,"The SmartMoney.com Week On The Street - November 23, 2001"
+1256,1,0,0,legitimate,CC: Match.com - You've Got Mail: Hello
+1257,1,0,0,legitimate,Understanding the Difference between Democrats and Compassionate Conservative Republicans

@@ -1,0 +1,13 @@
+torch
+transformers
+accelerate
+peft
+datasets
+pandas
+scikit-learn
+gradio
+numpy
+bitsandbytes
+tqdm
+sentencepiece
+protobuf
