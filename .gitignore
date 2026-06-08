@@ -114,3 +114,8 @@ poison_emails.py
 generate_emails.py
 
 dataset/dataset.zip
+
+# =========================
+# tensors
+# =========================
+adapter_model.safetensors
