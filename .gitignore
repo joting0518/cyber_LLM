@@ -66,14 +66,15 @@ dataset/test.csv
 # Original Datasets
 # =========================
 
-enron/enron.csv
-enron/enron_clean.csv
+enron.csv
+enron_clean.csv
 nazario_clean.csv
 nazario.csv
-nazario/Nazario_Phishing_Corpus.mbox
-Adversarial_BEC_Email/synthetic_emails.csv
-Adversarial_BEC_Email/synthetic_emails_poisoned.csv
-Adversarial_BEC_Email/bec_clean.csv
+Nazario_Phishing_Corpus.mbox
+
+synthetic_emails.csv
+synthetic_emails_poisoned.csv
+bec_clean.csv
 test.csv
 train.CSV
 valid.csv
