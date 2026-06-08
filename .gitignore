@@ -74,6 +74,9 @@ nazario/Nazario_Phishing_Corpus.mbox
 Adversarial_BEC_Email/synthetic_emails.csv
 Adversarial_BEC_Email/synthetic_emails_poisoned.csv
 Adversarial_BEC_Email/bec_clean.csv
+test.csv
+train.CSV
+valid.csv
 
 # =========================
 # Generated CSV

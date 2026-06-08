@@ -1,259 +1,209 @@
-# Defending against Conventional and AI-generated Phishing Using LLM-based System
+# Group 8 Week 16 Final Submission
 
-## Overview
-This notebook implements an LLM-based Business Email Compromise (BEC) defense system using a LoRA fine-tuned Qwen2.5-7B model. The system analyzes email content, identifies malicious intent, generates risk scores, and performs dynamic control actions (Allow, Warning, Quarantine, or Block). A Gradio interface is provided for interactive demonstrations and real-time email security assessment.
+Project: Defending against Conventional and AI-generated Phishing Using an LLM-based System
 
-## **Notebook(Entrance):** 
-📓 [bec_detection_qwen25.ipynb](./bec_detection_qwen25.ipynb)
+## Team
 
-## Demo Interface
-![Demo Interface](./assets/demo.png)
+- 楊大明 111701043 國立政治大學
+- 林佩璇 111302055 國立政治大學
+- 陳若庭 111306011 國立政治大學
+- 李宜恩 111208001 國立政治大學
 
-## Demo Video
-🎥 [Watch Demo](https://drive.google.com/file/d/1Bn9_QrXNJQ1dEVGxulVnasttunsR-Yqd/view)
+## Main Files
 
-## Final report
-📄 [View report]()
+- `Group8_Final_Report.pdf`: final integrated report.
+- `poc/app/BEC.ipynb`: main proof-of-concept notebook.
+- `poc/app/demo.png`: demo interface screenshot.
+- `data/train.csv`, `data/valid.csv`, `data/test.csv`: dataset splits.
+- `model/best_adapter/`: fine-tuned LoRA adapter and tokenizer files.
 
-## Dataset Preparation
+## Online Demo Links
 
-| Dataset          | Label          | Final Size |
-| ---------------- | -------------- | ---------: |
-| Enron            | Legitimate (0) |    228,221 |
-| Nazario          | Phishing (1)   |        950 |
-| BEC              | Phishing (1)   |      5,338 |
-| Training Dataset | Balanced       |     12,576 |
+- Colab notebook: https://colab.research.google.com/drive/1Fv-GlxEPfdZPR_q3EnJTPMpCgeYqYr9G?usp=sharing
+- Demo video: https://drive.google.com/file/d/1Bn9_QrXNJQ1dEVGxulVnasttunsR-Yqd/view?usp=drivesdk
+- Final report: https://docs.google.com/document/d/1Tiy3UWYrIxs-ibKG3vQOFagA3RfZhbr6a6bPJcKt8DM/edit?usp=sharing
 
-### Source Datasets
+## Project Summary
 
-This project uses three publicly available email datasets.
-| Dataset                       | Purpose                                | Link                                                                                                                                           |
-| ----------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Enron Email Dataset           | Legitimate Emails                      | [https://www.kaggle.com/datasets/wcukierski/enron-email-dataset](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset)               |
-| Nazario Phishing Corpus       | Phishing Emails                        | [https://monkey.org/~jose/phishing/phishing3.mbox](https://monkey.org/~jose/phishing/phishing3.box)                                                                       |
-| Adversarial BEC Email Dataset | Phishing & Adversarial Phishing Emails | [https://www.kaggle.com/datasets/yoadjei/adversarial-bec-email-dataset](https://www.kaggle.com/datasets/yoadjei/adversarial-bec-email-dataset) |
+This project builds an LLM-based phishing and Business Email Compromise email detection workflow. The system classifies email subject/body pairs as phishing or legitimate and documents a practical proof-of-concept pipeline for cybersecurity email defense.
 
-#### 1. Enron Email Dataset (Legitimate Emails)
-Processed file:
+## Dataset
 
-```text
-enron/enron_clean.csv
-```
+The dataset combines legitimate email and phishing/BEC sources:
 
-Preprocessing statistics:
+| Dataset | Purpose |
+|---|---|
+| Enron Email Dataset | Legitimate emails |
+| Nazario Phishing Corpus | Phishing emails |
+| Adversarial BEC Email Dataset | BEC and adversarial phishing emails |
 
-```text
-Original emails: 517401
-Successfully parsed: 517401
-Remove empty subject: 33236
-Remove empty body: 0
-Remove short emails: 814
-Remove duplicates: 255130
+Dataset split:
+Please fetch data from: https://drive.google.com/drive/folders/1VmlhlEN4ABqq82VPmqJaZSevkg6GiZIk?usp=sharing, and place it under folder w16.
 
-Final emails: 228221
-```
-
-Label assignment:
+1. install
 
 ```text
-label = 0
-dataset = 1
+pip install gdown
 ```
 
----
-
-#### 2. Nazario Phishing Corpus
-
-Processed file:
+2. download data：
 
 ```text
-nazario/nazario_clean.csv
+gdown --folder https://drive.google.com/drive/folders/1VmlhlEN4ABqq82VPmqJaZSevkg6GiZIk
 ```
 
-Preprocessing statistics:
+| File | Rows | Purpose |
+|---|---:|---|
+| `data/train.csv` | 10,060 | Fine-tuning |
+| `data/valid.csv` | 1,258 | Validation |
+| `data/test.csv` | 1,258 | Final evaluation |
+
+Schema:
+
+| Column | Meaning |
+|---|---|
+| `subject` | Email subject |
+| `body` | Email body |
+| `label` | `1 = phishing`, `0 = legitimate` |
+| `dataset` | Source dataset ID |
+
+## Model and Fine-tuning
+
+Base model:
 
 ```text
-Original emails: 2276
-Successfully parsed: 2276
-Remove empty subject: 20
-Remove empty body: 970
-Remove short emails: 0
-Remove duplicates: 336
-
-Final emails: 950
+Qwen/Qwen2.5-1.5B-Instruct
 ```
 
-Label assignment:
+Fine-tuning:
 
 ```text
-label = 1
-dataset = 2
+LoRA BF16 supervised fine-tuning on NVIDIA A100
 ```
 
----
+Key settings:
 
-#### 3. Adversarial BEC Email Dataset
+| Setting | Value |
+|---|---|
+| Epochs | 3 |
+| Max sequence length | 2048 |
+| Batch size per device | 8 |
+| Gradient accumulation steps | 2 |
+| Learning rate | 1e-4 |
+| LoRA rank | 16 |
+| LoRA alpha | 32 |
+| LoRA dropout | 0.05 |
 
-Processed file:
+## Reproducing the PoC
+
+Install dependencies from the submission root:
+
+```bash
+cd w16
+pip install -r poc/requirements.txt
+```
+
+Open the main notebook:
 
 ```text
-Adversarial_BEC_Email/bec_clean.csv
+poc/app/BEC.ipynb
 ```
 
-Preprocessing statistics:
+The submitted package includes the fine-tuned LoRA adapter in:
 
 ```text
-Original emails: 8422
-Successfully parsed: 8422
-Remove empty subject: 60
-Remove empty body: 60
-Remove short emails: 0
-Remove duplicates: 2964
-
-Final emails: 5338
+model/best_adapter/
 ```
 
-Label assignment:
+The full base model weights are not included because they are large and can be retrieved by model name. To reproduce inference, the runtime must be able to load:
 
 ```text
-label = 1
-dataset = 3 (clean BEC)
-dataset = 4 (adversarial BEC)
+Qwen/Qwen2.5-1.5B-Instruct
 ```
 
----
-
-### Dataset Balancing
-
-After preprocessing:
-
-#### Phishing Emails
+Then attach the submitted adapter from `model/best_adapter/`. The dataset used by the notebook and evaluation scripts is in:
 
 ```text
-Nazario Corpus      950
-BEC Dataset        5338
------------------------
-Total              6288
+data/test.csv
 ```
 
-#### Legitimate Emails
-
-To avoid severe class imbalance, all phishing emails were retained and an equal number of legitimate emails were randomly sampled from the Enron dataset.
-
-seed = 42
-```text
-Sampled Enron Emails: 6288
-```
-
-Final class distribution:
+The prompt used by the PoC is stored in:
 
 ```text
-Phishing (label=1):      6288
-Legitimate (label=0):    6288
+poc/prompts/email_classifier_prompt.txt
 ```
 
-Total dataset size:
+## Reproducing Evaluation
+
+Run a small smoke test:
+
+```bash
+python poc/scripts/evaluate_predictions.py --max-samples 10
+```
+
+Run the full test split:
+
+```bash
+python poc/scripts/evaluate_predictions.py
+```
+
+The script writes reproduced predictions to:
 
 ```text
-12576 emails
+evaluation/finetuned/reproduced_test_predictions.csv
 ```
 
-Random seed:
+Existing fine-tuned evaluation artifacts are included in:
 
 ```text
-seed = 42
+evaluation/finetuned/
 ```
 
----
+Provided evaluation CSV files:
 
-### Train / Validation / Test Split
+- `evaluation/finetuned/test_predictions.csv`
+- `evaluation/finetuned/test_metrics_overall.csv`
+- `evaluation/finetuned/test_metrics_by_dataset.csv`
+- `evaluation/finetuned/before_after_comparison.csv`
 
-The dataset was shuffled using a fixed random seed and split using stratified sampling.
+## Reproducing Training
 
-Split ratio:
+The training script now uses relative data paths by default:
+
+```bash
+python poc/scripts/train_qwen25_qlora.py
+```
+
+For a faster smoke run:
+
+```bash
+python poc/scripts/train_qwen25_qlora.py --max-train-samples 32 --max-valid-samples 16 --epochs 1
+```
+
+The script reads:
 
 ```text
-Train : 80%
-Valid : 10%
-Test  : 10%
+data/train.csv
+data/valid.csv
 ```
 
-Dataset statistics:
+## Results
+
+| Model | Accuracy | Precision | Recall | F1-score | TP | TN | FP | FN |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Before fine-tuning | 0.5684 | 0.5416 | 0.8903 | 0.6735 | 560 | 155 | 474 | 69 |
+| After fine-tuning, valid outputs only | 0.9960 | 0.9984 | 0.9936 | 0.9960 | 625 | 606 | 1 | 4 |
+
+Additional evaluation details:
 
 ```text
-Train : 10060
-Valid : 1258
-Test  : 1258
+test_total = 1258
+valid_predictions = 1236
+invalid_predictions = 22
+conservative_accuracy_invalid_as_wrong = 0.978537
 ```
 
-#### Train Label Distribution
+## Notes
 
-```text
-label=1 : 5030
-label=0 : 5030
-```
-
-#### Validation Label Distribution
-
-```text
-label=1 : 629
-label=0 : 629
-```
-
-#### Test Label Distribution
-
-```text
-label=1 : 629
-label=0 : 629
-```
-
-### Dataset Schema
-
-Each email record contains the following fields:
-
-| Column    | Type    | Description                                                                                            |
-| --------- | ------- | ------------------------------------------------------------------------------------------------------ |
-| `subject` | String  | The email subject line after preprocessing and normalization.                                          |
-| `body`    | String  | The email body content after HTML removal, whitespace normalization, and text cleaning.                |
-| `label`   | Integer | Binary classification label. `0` represents a legitimate email, while `1` represents a phishing email. |
-| `dataset` | Integer | Source dataset identifier used for analysis and error tracking.                                        |
-
-#### Label Definition
-
-| Label | Description      |
-| ----- | ---------------- |
-| `0`   | Legitimate Email |
-| `1`   | Phishing Email   |
-
-#### Dataset Identifier
-
-| Dataset ID | Source                        |
-| ---------- | ----------------------------- |
-| `1`        | Enron Email Dataset           |
-| `2`        | Nazario Phishing Corpus       |
-| `3`        | Synthetic BEC Email Dataset   |
-| `4`        | Adversarial BEC Email Dataset |
-
-#### Example
-
-```csv
-subject,body,label,dataset
-Verify your PayPal Account,"We recently detected unusual activity in your account. Please verify your information.",1,2
-```
-
-In this example:
-
-* `subject` contains the email title.
-* `body` contains the email content.
-* `label=1` indicates a phishing email.
-* `dataset=2` indicates that the sample originates from the Nazario Phishing Corpus.
-
-## Contributor:
-* 楊大明	111701043	國立政治大學
-* 林佩璇	111302055	國立政治大學
-* 陳若庭	111306011	國立政治大學
-* 李宜恩	111208001	國立政治大學
-
-
-
-
+- The full base model weights are not included in this zip. The adapter is included under `model/best_adapter/`.
+- Private credentials are not included.
